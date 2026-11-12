@@ -1,0 +1,1719 @@
+year,snapshot_date,counting_method,category,row_type,count,reduced_commission,raw_labels,footnote_marks,raw_values
+1886,1886-12-31,total_active,Auxiliary & support,ship_type,0,0,AUXILIARIES,,
+1886,1886-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1886,1886-12-31,total_active,Cruisers,ship_type,1,0,CRUISER*,,1.0
+1886,1886-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS~,,5.0
+1886,1886-12-31,total_active,Monitors,ship_type,0,0,MONITOR,,
+1886,1886-12-31,total_active,Sailing vessels (old navy),ship_type,4,0,SAILING VESSELS@,,4.0
+1886,1886-12-31,total_active,Screw steamers & sloops (old navy),ship_type,27,0,SCREW STEAMER*** | SCREW SLOOPS^,,13.0 | 14.0
+1886,1886-12-31,total_active,Steel gunboats,ship_type,1,0,STEEL GUNBOATS**,,1.0
+1886,1886-12-31,total_active,Torpedo boats,ship_type,0,0,TORPEDO BOATS,,
+1886,1886-12-31,total_active,Old navy (subtotal),subtotal,36,0,OLD NAVY $,,36.0
+1886,1886-12-31,total_active,Steel navy (subtotal),subtotal,2,0,STEEL NAVY,,2.0
+1886,1886-12-31,total_active,Total active,total,38,0,TOTAL ACTIVE,,38.0
+1887,1887-12-31,total_active,Auxiliary & support,ship_type,0,0,AUXILIARIES,,
+1887,1887-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1887,1887-12-31,total_active,Cruisers,ship_type,2,0,CRUISER*,,2.0
+1887,1887-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS~,,5.0
+1887,1887-12-31,total_active,Monitors,ship_type,0,0,MONITOR,,
+1887,1887-12-31,total_active,Sailing vessels (old navy),ship_type,4,0,SAILING VESSELS@,,4.0
+1887,1887-12-31,total_active,Screw steamers & sloops (old navy),ship_type,27,0,SCREW STEAMER*** | SCREW SLOOPS^,,13.0 | 14.0
+1887,1887-12-31,total_active,Steel gunboats,ship_type,1,0,STEEL GUNBOATS**,,1.0
+1887,1887-12-31,total_active,Torpedo boats,ship_type,0,0,TORPEDO BOATS,,
+1887,1887-12-31,total_active,Old navy (subtotal),subtotal,36,0,OLD NAVY $,,36.0
+1887,1887-12-31,total_active,Steel navy (subtotal),subtotal,3,0,STEEL NAVY,,3.0
+1887,1887-12-31,total_active,Total active,total,39,0,TOTAL ACTIVE,,39.0
+1888,1888-12-31,total_active,Auxiliary & support,ship_type,0,0,AUXILIARIES,,
+1888,1888-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1888,1888-12-31,total_active,Cruisers,ship_type,2,0,CRUISER*,,2.0
+1888,1888-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS~,,5.0
+1888,1888-12-31,total_active,Monitors,ship_type,0,0,MONITOR,,
+1888,1888-12-31,total_active,Sailing vessels (old navy),ship_type,4,0,SAILING VESSELS@,,4.0
+1888,1888-12-31,total_active,Screw steamers & sloops (old navy),ship_type,27,0,SCREW STEAMER*** | SCREW SLOOPS^,,13.0 | 14.0
+1888,1888-12-31,total_active,Steel gunboats,ship_type,1,0,STEEL GUNBOATS**,,1.0
+1888,1888-12-31,total_active,Torpedo boats,ship_type,0,0,TORPEDO BOATS,,
+1888,1888-12-31,total_active,Old navy (subtotal),subtotal,36,0,OLD NAVY $,,36.0
+1888,1888-12-31,total_active,Steel navy (subtotal),subtotal,3,0,STEEL NAVY,,3.0
+1888,1888-12-31,total_active,Total active,total,39,0,TOTAL ACTIVE,,39.0
+1889,1889-12-31,total_active,Auxiliary & support,ship_type,0,0,AUXILIARIES,,
+1889,1889-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1889,1889-12-31,total_active,Cruisers,ship_type,4,0,CRUISER*,,4.0
+1889,1889-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS~,,5.0
+1889,1889-12-31,total_active,Monitors,ship_type,0,0,MONITOR,,
+1889,1889-12-31,total_active,Sailing vessels (old navy),ship_type,3,0,SAILING VESSELS@,,3.0
+1889,1889-12-31,total_active,Screw steamers & sloops (old navy),ship_type,27,0,SCREW STEAMER*** | SCREW SLOOPS^,,13.0 | 14.0
+1889,1889-12-31,total_active,Steel gunboats,ship_type,4,0,STEEL GUNBOATS**,,4.0
+1889,1889-12-31,total_active,Torpedo boats,ship_type,0,0,TORPEDO BOATS,,
+1889,1889-12-31,total_active,Old navy (subtotal),subtotal,35,0,OLD NAVY $,,35.0
+1889,1889-12-31,total_active,Steel navy (subtotal),subtotal,8,0,STEEL NAVY,,8.0
+1889,1889-12-31,total_active,Total active,total,43,0,TOTAL ACTIVE,,43.0
+1890,1890-12-31,total_active,Auxiliary & support,ship_type,0,0,AUXILIARIES,,
+1890,1890-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1890,1890-12-31,total_active,Cruisers,ship_type,7,0,CRUISER*,,7.0
+1890,1890-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS~,,5.0
+1890,1890-12-31,total_active,Monitors,ship_type,0,0,MONITOR,,
+1890,1890-12-31,total_active,Sailing vessels (old navy),ship_type,3,0,SAILING VESSELS@,,3.0
+1890,1890-12-31,total_active,Screw steamers & sloops (old navy),ship_type,21,0,SCREW STEAMER*** | SCREW SLOOPS^,,11.0 | 10.0
+1890,1890-12-31,total_active,Steel gunboats,ship_type,5,0,STEEL GUNBOATS**,,5.0
+1890,1890-12-31,total_active,Torpedo boats,ship_type,1,0,TORPEDO BOATS,,1.0
+1890,1890-12-31,total_active,Old navy (subtotal),subtotal,29,0,OLD NAVY $,,29.0
+1890,1890-12-31,total_active,Steel navy (subtotal),subtotal,13,0,STEEL NAVY,,13.0
+1890,1890-12-31,total_active,Total active,total,42,0,TOTAL ACTIVE,,42.0
+1891,1891-12-31,total_active,Auxiliary & support,ship_type,1,0,AUXILIARIES,,1.0
+1891,1891-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1891,1891-12-31,total_active,Cruisers,ship_type,8,0,CRUISER*,,8.0
+1891,1891-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS~,,5.0
+1891,1891-12-31,total_active,Monitors,ship_type,1,0,MONITOR,,1.0
+1891,1891-12-31,total_active,Sailing vessels (old navy),ship_type,3,0,SAILING VESSELS@,,3.0
+1891,1891-12-31,total_active,Screw steamers & sloops (old navy),ship_type,20,0,SCREW STEAMER*** | SCREW SLOOPS^,,10.0 | 10.0
+1891,1891-12-31,total_active,Steel gunboats,ship_type,7,0,STEEL GUNBOATS**,,7.0
+1891,1891-12-31,total_active,Torpedo boats,ship_type,1,0,TORPEDO BOATS,,1.0
+1891,1891-12-31,total_active,Old navy (subtotal),subtotal,28,0,OLD NAVY $,,28.0
+1891,1891-12-31,total_active,Steel navy (subtotal),subtotal,18,0,STEEL NAVY,,18.0
+1891,1891-12-31,total_active,Total active,total,46,0,TOTAL ACTIVE,,46.0
+1892,1892-12-31,total_active,Auxiliary & support,ship_type,1,0,AUXILIARIES#,,1.0
+1892,1892-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1892,1892-12-31,total_active,Cruisers,ship_type,8,0,CRUISER,,8.0
+1892,1892-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS,,5.0
+1892,1892-12-31,total_active,Monitors,ship_type,1,0,MONITOR,,1.0
+1892,1892-12-31,total_active,Sailing vessels (old navy),ship_type,3,0,SAILING VESSELS,,3.0
+1892,1892-12-31,total_active,Screw steamers & sloops (old navy),ship_type,17,0,SCREW STEAMER | SCREW SLOOPS,,9.0 | 8.0
+1892,1892-12-31,total_active,Steel gunboats,ship_type,7,0,STEEL GUNBOATS,,7.0
+1892,1892-12-31,total_active,Torpedo boats,ship_type,1,0,TORPEDO BOATS,,1.0
+1892,1892-12-31,total_active,Old navy (subtotal),subtotal,25,0,OLD NAVY,,25.0
+1892,1892-12-31,total_active,Steel navy (subtotal),subtotal,18,0,STEEL NAVY,,18.0
+1892,1892-12-31,total_active,Total active,total,43,0,TOTAL ACTIVE,,43.0
+1893,1893-12-31,total_active,Auxiliary & support,ship_type,1,0,AUXILIARIES#,,1.0
+1893,1893-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1893,1893-12-31,total_active,Cruisers,ship_type,9,0,CRUISER,,9.0
+1893,1893-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS,,5.0
+1893,1893-12-31,total_active,Monitors,ship_type,2,0,MONITOR,,2.0
+1893,1893-12-31,total_active,Sailing vessels (old navy),ship_type,2,0,SAILING VESSELS,,2.0
+1893,1893-12-31,total_active,Screw steamers & sloops (old navy),ship_type,14,0,SCREW STEAMER | SCREW SLOOPS,,7.0 | 7.0
+1893,1893-12-31,total_active,Steel gunboats,ship_type,9,0,STEEL GUNBOATS,,9.0
+1893,1893-12-31,total_active,Torpedo boats,ship_type,1,0,TORPEDO BOATS,,1.0
+1893,1893-12-31,total_active,Old navy (subtotal),subtotal,21,0,OLD NAVY,,21.0
+1893,1893-12-31,total_active,Steel navy (subtotal),subtotal,22,0,STEEL NAVY,,22.0
+1893,1893-12-31,total_active,Total active,total,43,0,TOTAL ACTIVE,,43.0
+1894,1894-12-31,total_active,Auxiliary & support,ship_type,1,0,AUXILIARIES#,,1.0
+1894,1894-12-31,total_active,Battleships,ship_type,0,0,BATTLESHIP,,
+1894,1894-12-31,total_active,Cruisers,ship_type,16,0,CRUISER,,16.0
+1894,1894-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS,,5.0
+1894,1894-12-31,total_active,Monitors,ship_type,2,0,MONITOR,,2.0
+1894,1894-12-31,total_active,Sailing vessels (old navy),ship_type,2,0,SAILING VESSELS,,2.0
+1894,1894-12-31,total_active,Screw steamers & sloops (old navy),ship_type,13,0,SCREW STEAMER | SCREW SLOOPS,,7.0 | 6.0
+1894,1894-12-31,total_active,Steel gunboats,ship_type,10,0,STEEL GUNBOATS,,10.0
+1894,1894-12-31,total_active,Torpedo boats,ship_type,1,0,TORPEDO BOATS,,1.0
+1894,1894-12-31,total_active,Old navy (subtotal),subtotal,20,0,OLD NAVY,,20.0
+1894,1894-12-31,total_active,Steel navy (subtotal),subtotal,30,0,STEEL NAVY,,30.0
+1894,1894-12-31,total_active,Total active,total,50,0,TOTAL ACTIVE,,50.0
+1895,1895-12-31,total_active,Auxiliary & support,ship_type,1,0,AUXILIARIES#,,1
+1895,1895-12-31,total_active,Battleships,ship_type,3,0,BATTLESHIP,,3
+1895,1895-12-31,total_active,Cruisers,ship_type,17,0,CRUISER,,17
+1895,1895-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS,,5
+1895,1895-12-31,total_active,Monitors,ship_type,3,0,MONITOR,,3
+1895,1895-12-31,total_active,Sailing vessels (old navy),ship_type,2,0,SAILING VESSELS,,2
+1895,1895-12-31,total_active,Screw steamers & sloops (old navy),ship_type,13,0,SCREW STEAMER | SCREW SLOOPS,,7 | 6
+1895,1895-12-31,total_active,Steel gunboats,ship_type,10,0,STEEL GUNBOATS,,10
+1895,1895-12-31,total_active,Torpedo boats,ship_type,1,0,TORPEDO BOATS,,1
+1895,1895-12-31,total_active,Old navy (subtotal),subtotal,20,0,OLD NAVY,,20
+1895,1895-12-31,total_active,Steel navy (subtotal),subtotal,35,0,STEEL NAVY,,35
+1895,1895-12-31,total_active,Total active,total,55,0,TOTAL ACTIVE,,55
+1896,1896-12-31,total_active,Auxiliary & support,ship_type,1,0,AUXILIARIES#,,1
+1896,1896-12-31,total_active,Battleships,ship_type,5,0,BATTLESHIP,,5
+1896,1896-12-31,total_active,Cruisers,ship_type,16,0,CRUISER,,16
+1896,1896-12-31,total_active,Gunboats (old navy),ship_type,5,0,GUNBOATS,,5
+1896,1896-12-31,total_active,Monitors,ship_type,6,0,MONITOR,,6
+1896,1896-12-31,total_active,Sailing vessels (old navy),ship_type,1,0,SAILING VESSELS,,1
+1896,1896-12-31,total_active,Screw steamers & sloops (old navy),ship_type,13,0,SCREW STEAMER | SCREW SLOOPS,,7 | 6
+1896,1896-12-31,total_active,Steel gunboats,ship_type,11,0,STEEL GUNBOATS,,11
+1896,1896-12-31,total_active,Torpedo boats,ship_type,1,0,TORPEDO BOATS,,1
+1896,1896-12-31,total_active,Old navy (subtotal),subtotal,19,0,OLD NAVY,,19
+1896,1896-12-31,total_active,Steel navy (subtotal),subtotal,40,0,STEEL NAVY,,40
+1896,1896-12-31,total_active,Total active,total,59,0,TOTAL ACTIVE,,59
+1897,1897-12-31,total_active,Auxiliary & support,ship_type,1,0,AUXILIARIES#,,1
+1897,1897-12-31,total_active,Battleships,ship_type,6,0,BATTLESHIP,,6
+1897,1897-12-31,total_active,Cruisers,ship_type,16,0,CRUISER,,16
+1897,1897-12-31,total_active,Gunboats (old navy),ship_type,10,0,GUNBOATS,,10
+1897,1897-12-31,total_active,Monitors,ship_type,6,0,MONITOR,,6
+1897,1897-12-31,total_active,Sailing vessels (old navy),ship_type,1,0,SAILING VESSELS,,1
+1897,1897-12-31,total_active,Screw steamers & sloops (old navy),ship_type,12,0,SCREW STEAMER | SCREW SLOOPS,,7 | 5
+1897,1897-12-31,total_active,Steel gunboats,ship_type,14,0,STEEL GUNBOATS,,14
+1897,1897-12-31,total_active,Torpedo boats,ship_type,6,0,TORPEDO BOATS,,6
+1897,1897-12-31,total_active,Old navy (subtotal),subtotal,23,0,OLD NAVY,,23
+1897,1897-12-31,total_active,Steel navy (subtotal),subtotal,49,0,STEEL NAVY,,49
+1897,1897-12-31,total_active,Total active,total,72,0,TOTAL ACTIVE,,72
+1898,1898-12-31,total_active,Auxiliary & support,ship_type,30,0,AUXILIARIES#,,30
+1898,1898-12-31,total_active,Battleships,ship_type,6,0,BATTLESHIP,,6
+1898,1898-12-31,total_active,Cruisers,ship_type,18,0,CRUISER,,18
+1898,1898-12-31,total_active,Destroyers,ship_type,0,0,DESTROYERS,,
+1898,1898-12-31,total_active,Gunboats (old navy),ship_type,25,0,GUNBOATS @@,,25
+1898,1898-12-31,total_active,Monitors,ship_type,14,0,MONITOR,,14
+1898,1898-12-31,total_active,Sailing vessels (old navy),ship_type,1,0,SAILING SHIPS,,1
+1898,1898-12-31,total_active,Screw steamers & sloops (old navy),ship_type,20,0,SCREW STEAMER | SCREW SLOOPS,,16 | 4
+1898,1898-12-31,total_active,Steel gunboats,ship_type,34,0,STEEL GUNBOATS,**,34**
+1898,1898-12-31,total_active,Submarines (attack/general),ship_type,0,0,SUBMARINES,,
+1898,1898-12-31,total_active,Torpedo boats,ship_type,12,0,TORPEDO BOATS,,12
+1898,1898-12-31,total_active,Old navy (subtotal),subtotal,46,0,OLD NAVY,,46
+1898,1898-12-31,total_active,Steel navy (subtotal),subtotal,114,0,STEEL NAVY,,114
+1898,1898-12-31,total_active,Total active,total,160,0,TOTAL ACTIVE,,160
+1899,1899-12-31,total_active,Auxiliary & support,ship_type,26,0,AUXILIARIES#,,26
+1899,1899-12-31,total_active,Battleships,ship_type,5,0,BATTLESHIP,,5
+1899,1899-12-31,total_active,Cruisers,ship_type,15,0,CRUISER,,15
+1899,1899-12-31,total_active,Destroyers,ship_type,0,0,DESTROYERS,,
+1899,1899-12-31,total_active,Gunboats (old navy),ship_type,20,0,GUNBOATS @@,,20
+1899,1899-12-31,total_active,Monitors,ship_type,6,0,MONITOR,,6
+1899,1899-12-31,total_active,Sailing vessels (old navy),ship_type,1,0,SAILING SHIPS,***,1***
+1899,1899-12-31,total_active,Screw steamers & sloops (old navy),ship_type,17,0,SCREW STEAMER | SCREW SLOOPS,,13 | 4
+1899,1899-12-31,total_active,Steel gunboats,ship_type,28,0,STEEL GUNBOATS,,28
+1899,1899-12-31,total_active,Submarines (attack/general),ship_type,0,0,SUBMARINES,,
+1899,1899-12-31,total_active,Torpedo boats,ship_type,15,0,TORPEDO BOATS,,15
+1899,1899-12-31,total_active,Old navy (subtotal),subtotal,38,0,OLD NAVY,,38
+1899,1899-12-31,total_active,Steel navy (subtotal),subtotal,95,0,STEEL NAVY,,95
+1899,1899-12-31,total_active,Total active,total,133,0,TOTAL ACTIVE,,133
+1900,1900-12-31,total_active,Auxiliary & support,ship_type,25,0,AUXILIARIES#,,25
+1900,1900-12-31,total_active,Battleships,ship_type,8,0,BATTLESHIP,,8
+1900,1900-12-31,total_active,Cruisers,ship_type,13,0,CRUISER,,13
+1900,1900-12-31,total_active,Destroyers,ship_type,0,0,DESTROYERS,,
+1900,1900-12-31,total_active,Gunboats (old navy),ship_type,26,0,GUNBOATS @@,,26
+1900,1900-12-31,total_active,Monitors,ship_type,5,0,MONITOR,,5
+1900,1900-12-31,total_active,Sailing vessels (old navy),ship_type,0,0,SAILING SHIPS,,
+1900,1900-12-31,total_active,Screw steamers & sloops (old navy),ship_type,14,0,SCREW STEAMER | SCREW SLOOPS,,11 | 3
+1900,1900-12-31,total_active,Steel gunboats,ship_type,30,0,STEEL GUNBOATS,,30
+1900,1900-12-31,total_active,Submarines (attack/general),ship_type,1,0,SUBMARINES,*,1*
+1900,1900-12-31,total_active,Torpedo boats,ship_type,18,0,TORPEDO BOATS,,18
+1900,1900-12-31,total_active,Old navy (subtotal),subtotal,40,0,OLD NAVY,,40
+1900,1900-12-31,total_active,Steel navy (subtotal),subtotal,100,0,STEEL NAVY,,100
+1900,1900-12-31,total_active,Total active,total,140,0,TOTAL ACTIVE,,140
+1901,1901-12-31,total_active,Auxiliary & support,ship_type,25,0,AUXILIARIES#,,25.0
+1901,1901-12-31,total_active,Battleships,ship_type,9,0,BATTLESHIP,,9.0
+1901,1901-12-31,total_active,Cruisers,ship_type,9,0,CRUISER,,9.0
+1901,1901-12-31,total_active,Destroyers,ship_type,0,0,DESTROYERS,,
+1901,1901-12-31,total_active,Gunboats (old navy),ship_type,25,0,GUNBOATS @@,,25.0
+1901,1901-12-31,total_active,Monitors,ship_type,6,0,MONITOR,,6.0
+1901,1901-12-31,total_active,Sailing vessels (old navy),ship_type,0,0,SAILING SHIPS,,
+1901,1901-12-31,total_active,Screw steamers & sloops (old navy),ship_type,13,0,SCREW STEAMER | SCREW SLOOPS,,10.0 | 3.0
+1901,1901-12-31,total_active,Steel gunboats,ship_type,29,0,STEEL GUNBOATS,,29.0
+1901,1901-12-31,total_active,Submarines (attack/general),ship_type,1,0,SUBMARINES,,1.0
+1901,1901-12-31,total_active,Torpedo boats,ship_type,24,0,TORPEDO BOATS,,24.0
+1901,1901-12-31,total_active,Old navy (subtotal),subtotal,38,0,OLD NAVY,,38.0
+1901,1901-12-31,total_active,Steel navy (subtotal),subtotal,103,0,STEEL NAVY,,103.0
+1901,1901-12-31,total_active,Total active,total,141,0,TOTAL ACTIVE,,141.0
+1902,1902-12-31,total_active,Auxiliary & support,ship_type,26,0,AUXILIARIES#,,26.0
+1902,1902-12-31,total_active,Battleships,ship_type,10,0,BATTLESHIP,,10.0
+1902,1902-12-31,total_active,Cruisers,ship_type,16,0,CRUISER,,16.0
+1902,1902-12-31,total_active,Destroyers,ship_type,8,0,DESTROYERS,,8.0
+1902,1902-12-31,total_active,Gunboats (old navy),ship_type,25,0,GUNBOATS @@,,25.0
+1902,1902-12-31,total_active,Monitors,ship_type,6,0,MONITOR,,6.0
+1902,1902-12-31,total_active,Sailing vessels (old navy),ship_type,0,0,SAILING SHIPS,,
+1902,1902-12-31,total_active,Screw steamers & sloops (old navy),ship_type,12,0,SCREW STEAMER | SCREW SLOOPS,,9.0 | 3.0
+1902,1902-12-31,total_active,Steel gunboats,ship_type,29,0,STEEL GUNBOATS,,29.0
+1902,1902-12-31,total_active,Submarines (attack/general),ship_type,1,0,SUBMARINES,,1.0
+1902,1902-12-31,total_active,Torpedo boats,ship_type,27,0,TORPEDO BOATS,,27.0
+1902,1902-12-31,total_active,Old navy (subtotal),subtotal,37,0,OLD NAVY,,37.0
+1902,1902-12-31,total_active,Steel navy (subtotal),subtotal,123,0,STEEL NAVY,,123.0
+1902,1902-12-31,total_active,Total active,total,160,0,TOTAL ACTIVE,,160.0
+1903,1903-12-31,total_active,Auxiliary & support,ship_type,26,0,AUXILIARIES#,,26.0
+1903,1903-12-31,total_active,Battleships,ship_type,11,0,BATTLESHIP,,11.0
+1903,1903-12-31,total_active,Cruisers,ship_type,19,0,CRUISER,,19.0
+1903,1903-12-31,total_active,Destroyers,ship_type,16,0,DESTROYERS,,16.0
+1903,1903-12-31,total_active,Gunboats (old navy),ship_type,22,0,GUNBOATS @@,,22.0
+1903,1903-12-31,total_active,Monitors,ship_type,6,0,MONITOR,,6.0
+1903,1903-12-31,total_active,Sailing vessels (old navy),ship_type,0,0,SAILING SHIPS,,
+1903,1903-12-31,total_active,Screw steamers & sloops (old navy),ship_type,11,0,SCREW STEAMER | SCREW SLOOPS,,9.0 | 2.0
+1903,1903-12-31,total_active,Steel gunboats,ship_type,29,0,STEEL GUNBOATS,,29.0
+1903,1903-12-31,total_active,Submarines (attack/general),ship_type,8,0,SUBMARINES,,8.0
+1903,1903-12-31,total_active,Torpedo boats,ship_type,27,0,TORPEDO BOATS,,27.0
+1903,1903-12-31,total_active,Old navy (subtotal),subtotal,33,0,OLD NAVY,,33.0
+1903,1903-12-31,total_active,Steel navy (subtotal),subtotal,142,0,STEEL NAVY,,142.0
+1903,1903-12-31,total_active,Total active,total,175,0,TOTAL ACTIVE,,175.0
+1904,1904-12-31,total_active,Auxiliary & support,ship_type,28,0,AUXILIARIES,,28
+1904,1904-12-31,total_active,Battleships,ship_type,12,0,BATTLESHIP,,12
+1904,1904-12-31,total_active,Cruisers,ship_type,23,0,CRUISER,,23
+1904,1904-12-31,total_active,Destroyers,ship_type,16,0,DESTROYERS,,16
+1904,1904-12-31,total_active,Gunboats (old navy),ship_type,21,0,GUNBOATS,,21
+1904,1904-12-31,total_active,Monitors,ship_type,5,0,MONITOR,,5
+1904,1904-12-31,total_active,Screw steamers & sloops (old navy),ship_type,6,0,SCREW STEAMER | SCREW SLOOPS,***,4 | 2***
+1904,1904-12-31,total_active,Steel gunboats,ship_type,29,0,STEEL GUNBOATS,,29
+1904,1904-12-31,total_active,Submarines (attack/general),ship_type,8,0,SUBMARINES,,8
+1904,1904-12-31,total_active,Torpedo boats,ship_type,29,0,TORPEDO BOATS*,,29
+1904,1904-12-31,total_active,Total active,total,177,0,TOTAL ACTIVE,,177
+1905,1905-12-31,total_active,Auxiliary & support,ship_type,27,0,AUXILIARIES,,27.0
+1905,1905-12-31,total_active,Battleships,ship_type,12,0,BATTLESHIP,,12.0
+1905,1905-12-31,total_active,Cruisers,ship_type,24,0,CRUISER,,24.0
+1905,1905-12-31,total_active,Destroyers,ship_type,16,0,DESTROYERS,,16.0
+1905,1905-12-31,total_active,Gunboats (old navy),ship_type,19,0,GUNBOATS,,19.0
+1905,1905-12-31,total_active,Monitors,ship_type,4,0,MONITOR,,4.0
+1905,1905-12-31,total_active,Screw steamers & sloops (old navy),ship_type,4,0,SCREW STEAMER | SCREW SLOOPS,,4.0 | 
+1905,1905-12-31,total_active,Steel gunboats,ship_type,28,0,STEEL GUNBOATS,,28.0
+1905,1905-12-31,total_active,Submarines (attack/general),ship_type,8,0,SUBMARINES,,8.0
+1905,1905-12-31,total_active,Torpedo boats,ship_type,32,0,TORPEDO BOATS*,,32.0
+1905,1905-12-31,total_active,Total active,total,174,0,TOTAL ACTIVE,,174.0
+1906,1906-12-31,total_active,Auxiliary & support,ship_type,29,0,AUXILIARIES,,29
+1906,1906-12-31,total_active,Battleships,ship_type,18,0,BATTLESHIP,,18
+1906,1906-12-31,total_active,Cruisers,ship_type,27,0,CRUISER,,27
+1906,1906-12-31,total_active,Destroyers,ship_type,16,0,DESTROYERS,,16
+1906,1906-12-31,total_active,Gunboats (old navy),ship_type,19,0,GUNBOATS,,19
+1906,1906-12-31,total_active,Monitors,ship_type,4,0,MONITOR,,4
+1906,1906-12-31,total_active,Screw steamers & sloops (old navy),ship_type,2,0,SCREW STEAMER | SCREW SLOOPS,**,2** | 
+1906,1906-12-31,total_active,Steel gunboats,ship_type,25,0,STEEL GUNBOATS,,25
+1906,1906-12-31,total_active,Submarines (attack/general),ship_type,8,0,SUBMARINES,,8
+1906,1906-12-31,total_active,Torpedo boats,ship_type,32,0,TORPEDO BOATS*,,32
+1906,1906-12-31,total_active,Total active,total,180,0,TOTAL ACTIVE,,180
+1907,1907-12-31,total_active,Auxiliary & support,ship_type,30,0,AUXILIARIES,,30.0
+1907,1907-12-31,total_active,Battleships,ship_type,22,0,BATTLESHIP,,22.0
+1907,1907-12-31,total_active,Cruisers,ship_type,25,0,CRUISER,,25.0
+1907,1907-12-31,total_active,Destroyers,ship_type,16,0,DESTROYERS,,16.0
+1907,1907-12-31,total_active,Gunboats (old navy),ship_type,18,0,GUNBOATS,,18.0
+1907,1907-12-31,total_active,Monitors,ship_type,4,0,MONITOR,,4.0
+1907,1907-12-31,total_active,Screw steamers & sloops (old navy),ship_type,0,0,SCREW STEAMER | SCREW SLOOPS,, | 
+1907,1907-12-31,total_active,Steel gunboats,ship_type,22,0,STEEL GUNBOATS,,22.0
+1907,1907-12-31,total_active,Submarines (attack/general),ship_type,11,0,SUBMARINES,,11.0
+1907,1907-12-31,total_active,Torpedo boats,ship_type,32,0,TORPEDO BOATS*,,32.0
+1907,1907-12-31,total_active,Total active,total,180,0,TOTAL ACTIVE,,180.0
+1908,1908-12-31,total_active,Auxiliary & support,ship_type,30,0,AUXILIARIES,,30.0
+1908,1908-12-31,total_active,Battleships,ship_type,25,0,BATTLESHIP,,25.0
+1908,1908-12-31,total_active,Cruisers,ship_type,27,0,CRUISER,,27.0
+1908,1908-12-31,total_active,Destroyers,ship_type,16,0,DESTROYERS,,16.0
+1908,1908-12-31,total_active,Gunboats (old navy),ship_type,16,0,GUNBOATS,,16.0
+1908,1908-12-31,total_active,Monitors,ship_type,2,0,MONITOR,,2.0
+1908,1908-12-31,total_active,Screw steamers & sloops (old navy),ship_type,0,0,SCREW STEAMER | SCREW SLOOPS,, | 
+1908,1908-12-31,total_active,Steel gunboats,ship_type,20,0,STEEL GUNBOATS,,20.0
+1908,1908-12-31,total_active,Submarines (attack/general),ship_type,12,0,SUBMARINES,,12.0
+1908,1908-12-31,total_active,Torpedo boats,ship_type,33,0,TORPEDO BOATS*,,33.0
+1908,1908-12-31,total_active,Total active,total,181,0,TOTAL ACTIVE,,181.0
+1909,1909-12-31,total_active,Auxiliary & support,ship_type,29,0,AUXILIARIES,,29.0
+1909,1909-12-31,total_active,Battleships,ship_type,25,0,BATTLESHIP,,25.0
+1909,1909-12-31,total_active,Cruisers,ship_type,27,0,CRUISER,,27.0
+1909,1909-12-31,total_active,Destroyers,ship_type,20,0,DESTROYERS,,20.0
+1909,1909-12-31,total_active,Gunboats (old navy),ship_type,16,0,GUNBOATS,,16.0
+1909,1909-12-31,total_active,Monitors,ship_type,2,0,MONITOR,,2.0
+1909,1909-12-31,total_active,Screw steamers & sloops (old navy),ship_type,0,0,SCREW STEAMER | SCREW SLOOPS,, | 
+1909,1909-12-31,total_active,Steel gunboats,ship_type,19,0,STEEL GUNBOATS,,19.0
+1909,1909-12-31,total_active,Submarines (attack/general),ship_type,16,0,SUBMARINES,,16.0
+1909,1909-12-31,total_active,Torpedo boats,ship_type,33,0,TORPEDO BOATS*,,33.0
+1909,1909-12-31,total_active,Total active,total,187,0,TOTAL ACTIVE,,187.0
+1910,1910-12-31,total_active,Auxiliary & support,ship_type,29,0,AUXILIARIES,,29
+1910,1910-12-31,total_active,Battleships,ship_type,29,0,BATTLESHIP,,29
+1910,1910-12-31,total_active,Cruisers,ship_type,27,0,CRUISER,,27
+1910,1910-12-31,total_active,Destroyers,ship_type,27,0,DESTROYERS,,27
+1910,1910-12-31,total_active,Gunboats (old navy),ship_type,16,0,GUNBOATS,,16
+1910,1910-12-31,total_active,Monitors,ship_type,2,0,MONITOR,,2
+1910,1910-12-31,total_active,Steel gunboats,ship_type,18,0,STEEL GUNBOATS,,18
+1910,1910-12-31,total_active,Submarines (attack/general),ship_type,17,0,SUBMARINES,,17
+1910,1910-12-31,total_active,Torpedo boats,ship_type,31,0,TORPEDO BOATS*,,31
+1910,1910-12-31,total_active,Total active,total,196,0,TOTAL ACTIVE,,196
+1911,1911-12-31,total_active,Auxiliary & support,ship_type,28,0,AUXILIARIES,,28
+1911,1911-12-31,total_active,Battleships,ship_type,30,0,BATTLESHIP,,30
+1911,1911-12-31,total_active,Cruisers,ship_type,25,0,CRUISER,,25
+1911,1911-12-31,total_active,Destroyers,ship_type,36,0,DESTROYERS,,36
+1911,1911-12-31,total_active,Gunboats (old navy),ship_type,15,0,GUNBOATS,,15
+1911,1911-12-31,total_active,Monitors,ship_type,3,0,MONITOR,,3
+1911,1911-12-31,total_active,Steel gunboats,ship_type,18,0,STEEL GUNBOATS,,18
+1911,1911-12-31,total_active,Submarines (attack/general),ship_type,17,0,SUBMARINES,,17
+1911,1911-12-31,total_active,Torpedo boats,ship_type,30,0,TORPEDO BOATS*,,30
+1911,1911-12-31,total_active,Total active,total,202,0,TOTAL ACTIVE,,202
+1912,1912-12-31,total_active,Auxiliary & support,ship_type,28,0,AUXILIARIES,,28
+1912,1912-12-31,total_active,Battleships,ship_type,32,0,BATTLESHIP,,32
+1912,1912-12-31,total_active,Cruisers,ship_type,24,0,CRUISER,,24
+1912,1912-12-31,total_active,Destroyers,ship_type,42,0,DESTROYERS,,42
+1912,1912-12-31,total_active,Gunboats (old navy),ship_type,12,0,GUNBOATS,,12
+1912,1912-12-31,total_active,Monitors,ship_type,3,0,MONITOR,,3
+1912,1912-12-31,total_active,Steel gunboats,ship_type,17,0,STEEL GUNBOATS,,17
+1912,1912-12-31,total_active,Submarines (attack/general),ship_type,23,0,SUBMARINES,,23
+1912,1912-12-31,total_active,Torpedo boats,ship_type,30,0,TORPEDO BOATS*,,30
+1912,1912-12-31,total_active,Total active,total,211,0,TOTAL ACTIVE,,211
+1913,1913-12-31,total_active,Auxiliary & support,ship_type,27,0,AUXILIARIES,,27
+1913,1913-12-31,total_active,Battleships,ship_type,32,0,BATTLESHIP,,32
+1913,1913-12-31,total_active,Cruisers,ship_type,27,0,CRUISER,,27
+1913,1913-12-31,total_active,Destroyers,ship_type,46,0,DESTROYERS,,46
+1913,1913-12-31,total_active,Gunboats (old navy),ship_type,11,0,GUNBOATS,,11
+1913,1913-12-31,total_active,Monitors,ship_type,3,0,MONITOR,,3
+1913,1913-12-31,total_active,Steel gunboats,ship_type,17,0,STEEL GUNBOATS,,17
+1913,1913-12-31,total_active,Submarines (attack/general),ship_type,26,0,SUBMARINES,,26
+1913,1913-12-31,total_active,Torpedo boats,ship_type,25,0,TORPEDO BOATS*,,25
+1913,1913-12-31,total_active,Total active,total,214,0,TOTAL ACTIVE,,214
+1914,1914-12-31,total_active,Auxiliary & support,ship_type,26,0,AUXILIARIES,,26
+1914,1914-12-31,total_active,Battleships,ship_type,34,0,BATTLESHIP,,34
+1914,1914-12-31,total_active,Cruisers,ship_type,28,0,CRUISER,,28
+1914,1914-12-31,total_active,Destroyers,ship_type,50,0,DESTROYERS,,50
+1914,1914-12-31,total_active,Gunboats (old navy),ship_type,11,0,GUNBOATS,,11
+1914,1914-12-31,total_active,Monitors,ship_type,3,0,MONITOR,,3
+1914,1914-12-31,total_active,Steel gunboats,ship_type,17,0,STEEL GUNBOATS,,17
+1914,1914-12-31,total_active,Submarines (attack/general),ship_type,36,0,SUBMARINES,,36
+1914,1914-12-31,total_active,Torpedo boats,ship_type,19,0,TORPEDO BOATS*,,19
+1914,1914-12-31,total_active,Total active,total,224,0,TOTAL ACTIVE,,224
+1915,1915-12-31,total_active,Auxiliary & support,ship_type,26,0,AUXILIARIES,,26
+1915,1915-12-31,total_active,Battleships,ship_type,32,0,BATTLESHIP,,32
+1915,1915-12-31,total_active,Cruisers,ship_type,30,0,CRUISER,,30
+1915,1915-12-31,total_active,Destroyers,ship_type,57,0,DESTROYERS,,57
+1915,1915-12-31,total_active,Gunboats (old navy),ship_type,11,0,GUNBOATS,,11
+1915,1915-12-31,total_active,Monitors,ship_type,3,0,MONITOR,,3
+1915,1915-12-31,total_active,Steel gunboats,ship_type,17,0,STEEL GUNBOATS,,17
+1915,1915-12-31,total_active,Submarines (attack/general),ship_type,37,0,SUBMARINES,,37
+1915,1915-12-31,total_active,Torpedo boats,ship_type,18,0,TORPEDO BOATS*,,18
+1915,1915-12-31,total_active,Total active,total,231,0,TOTAL ACTIVE,,231
+1916,1916-12-31,total_active,Auxiliary & support,ship_type,25,0,AUXILIARIES,,25
+1916,1916-12-31,total_active,Battleships,ship_type,36,0,BATTLESHIP,,36
+1916,1916-12-31,total_active,Cruisers,ship_type,30,0,CRUISER,,30
+1916,1916-12-31,total_active,Destroyers,ship_type,61,0,DESTROYERS,,61
+1916,1916-12-31,total_active,Gunboats (old navy),ship_type,11,0,GUNBOATS,**,11**
+1916,1916-12-31,total_active,Monitors,ship_type,3,0,MONITOR,,3
+1916,1916-12-31,total_active,Steel gunboats,ship_type,17,0,STEEL GUNBOATS,**,17**
+1916,1916-12-31,total_active,Submarines (attack/general),ship_type,44,0,SUBMARINES,,44
+1916,1916-12-31,total_active,Torpedo boats,ship_type,18,0,TORPEDO BOATS*,,18
+1916,1916-12-31,total_active,Total active,total,245,0,TOTAL ACTIVE,,245
+1917,1917-04-06,total_active,Aircraft carriers,ship_type,0,0,"CARRIERS, FLEET",,-
+1917,1917-04-06,total_active,Auxiliary & support,ship_type,96,0,AUXILIARY,,96
+1917,1917-04-06,total_active,Battleships,ship_type,37,0,BATTLESHIP,,37
+1917,1917-04-06,total_active,Cruisers,ship_type,33,0,CRUISERS,,33
+1917,1917-04-06,total_active,Destroyers,ship_type,66,0,DESTROYERS,,66
+1917,1917-04-06,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1917,1917-04-06,total_active,Frigates,ship_type,17,0,FRIGATES,,17
+1917,1917-04-06,total_active,Mine warfare,ship_type,0,0,MINE WARFARE,,-
+1917,1917-04-06,total_active,Monitors,ship_type,7,0,"MONITORS, COASTAL",,7
+1917,1917-04-06,total_active,Patrol,ship_type,42,0,PATROL,,42
+1917,1917-04-06,total_active,Submarines (attack/general),ship_type,44,0,SUBMARINES,,44
+1917,1917-04-06,total_active,Surface warships (subtotal),subtotal,160,0,SURFACE WARSHIPS,,160
+1917,1917-04-06,total_active,Total active,total,342,0,TOTAL ACTIVE,,342
+1918,1918-11-11,total_active,Aircraft carriers,ship_type,0,0,"CARRIERS, FLEET",,-
+1918,1918-11-11,total_active,Auxiliary & support,ship_type,87,0,AUXILIARY,,87
+1918,1918-11-11,total_active,Battleships,ship_type,39,0,BATTLESHIP,,39
+1918,1918-11-11,total_active,Cruisers,ship_type,31,0,CRUISERS,,31
+1918,1918-11-11,total_active,Destroyers,ship_type,110,0,DESTROYERS,,110
+1918,1918-11-11,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1918,1918-11-11,total_active,Frigates,ship_type,17,0,FRIGATES,,17
+1918,1918-11-11,total_active,Mine warfare,ship_type,53,0,MINE WARFARE,,53
+1918,1918-11-11,total_active,Monitors,ship_type,7,0,"MONITORS, COASTAL",,7
+1918,1918-11-11,total_active,Patrol,ship_type,350,0,PATROL,,350
+1918,1918-11-11,total_active,Submarines (attack/general),ship_type,80,0,SUBMARINES,,80
+1918,1918-11-11,total_active,Surface warships (subtotal),subtotal,204,0,SURFACE WARSHIPS,,204
+1918,1918-11-11,total_active,Total active,total,774,0,TOTAL ACTIVE,,774
+1919,1919-07-01,total_active,Aircraft carriers,ship_type,0,0,"CARRIERS, FLEET",,-
+1919,1919-07-01,total_active,Auxiliary & support,ship_type,304,0,AUXILIARY,,304
+1919,1919-07-01,total_active,Battleships,ship_type,36,0,BATTLESHIP,,36
+1919,1919-07-01,total_active,Cruisers,ship_type,28,0,CRUISERS,,28
+1919,1919-07-01,total_active,Destroyers,ship_type,161,0,DESTROYERS,,161
+1919,1919-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1919,1919-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1919,1919-07-01,total_active,Mine warfare,ship_type,62,0,MINE WARFARE,,62
+1919,1919-07-01,total_active,Monitors,ship_type,5,0,"MONITORS, COASTAL",,5
+1919,1919-07-01,total_active,Patrol,ship_type,65,0,PATROL,,65
+1919,1919-07-01,total_active,Submarines (attack/general),ship_type,91,0,SUBMARINES,,91
+1919,1919-07-01,total_active,Surface warships (subtotal),subtotal,230,0,SURFACE WARSHIPS,,230
+1919,1919-07-01,total_active,Total active,total,752,0,TOTAL ACTIVE,,752
+1920,1920-07-01,total_active,Aircraft carriers,ship_type,0,0,"CARRIERS, FLEET",,-
+1920,1920-07-01,total_active,Auxiliary & support,ship_type,173,0,AUXILIARY,,173
+1920,1920-07-01,total_active,Battleships,ship_type,26,0,BATTLESHIP,,26
+1920,1920-07-01,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+1920,1920-07-01,total_active,Destroyers,ship_type,189,0,DESTROYERS,,189
+1920,1920-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1920,1920-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1920,1920-07-01,total_active,Mine warfare,ship_type,48,0,MINE WARFARE,,48
+1920,1920-07-01,total_active,Monitors,ship_type,1,0,"MONITORS, COASTAL",,1
+1920,1920-07-01,total_active,Patrol,ship_type,45,0,PATROL,,45
+1920,1920-07-01,total_active,Submarines (attack/general),ship_type,58,0,SUBMARINES,,58
+1920,1920-07-01,total_active,Surface warships (subtotal),subtotal,243,0,SURFACE WARSHIPS,,243
+1920,1920-07-01,total_active,Total active,total,567,0,TOTAL ACTIVE,,567
+1921,1921-07-01,total_active,Aircraft carriers,ship_type,0,0,"CARRIERS, FLEET",,-
+1921,1921-07-01,total_active,Auxiliary & support,ship_type,104,0,AUXILIARY,,104
+1921,1921-07-01,total_active,Battleships,ship_type,22,0,BATTLESHIP,,22
+1921,1921-07-01,total_active,Cruisers,ship_type,10,0,CRUISERS,,10
+1921,1921-07-01,total_active,Destroyers,ship_type,68,208,DESTROYERS,,68 (208rc )
+1921,1921-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1921,1921-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1921,1921-07-01,total_active,Mine warfare,ship_type,50,8,MINE WARFARE,,50 (8rc)
+1921,1921-07-01,total_active,Monitors,ship_type,2,0,"MONITORS, COASTAL",@,2@
+1921,1921-07-01,total_active,Patrol,ship_type,59,1,PATROL,,59 (1rc)
+1921,1921-07-01,total_active,Submarines (attack/general),ship_type,69,11,SUBMARINES,,69 (11rc)
+1921,1921-07-01,total_active,Surface warships (subtotal),subtotal,102,0,SURFACE WARSHIPS,,102
+1921,1921-07-01,total_active,Total active,total,384,228,TOTAL ACTIVE,,384 (228rc)
+1922,1922-07-01,total_active,Aircraft carriers,ship_type,0,0,"CARRIERS, FLEET",,-
+1922,1922-07-01,total_active,Auxiliary & support,ship_type,83,0,AUXILIARY,,83
+1922,1922-07-01,total_active,Battleships,ship_type,19,0,BATTLESHIP,,19
+1922,1922-07-01,total_active,Cruisers,ship_type,12,0,CRUISERS,,12
+1922,1922-07-01,total_active,Destroyers,ship_type,103,0,DESTROYERS,,103
+1922,1922-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1922,1922-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1922,1922-07-01,total_active,Mine warfare,ship_type,36,0,MINE WARFARE,,36
+1922,1922-07-01,total_active,Monitors,ship_type,0,0,"MONITORS, COASTAL",,-
+1922,1922-07-01,total_active,Patrol,ship_type,43,0,PATROL,,43
+1922,1922-07-01,total_active,Submarines (attack/general),ship_type,82,7,SUBMARINES,,82 (7rc)
+1922,1922-07-01,total_active,Surface warships (subtotal),subtotal,134,0,SURFACE WARSHIPS,,134
+1922,1922-07-01,total_active,Total active,total,379,7,TOTAL ACTIVE,,379 (7rc)
+1923,1923-07-01,total_active,Aircraft carriers,ship_type,0,0,"CARRIERS, FLEET",,-
+1923,1923-07-01,total_active,Auxiliary & support,ship_type,82,0,AUXILIARY,,82
+1923,1923-07-01,total_active,Battleships,ship_type,18,0,BATTLESHIP,,18
+1923,1923-07-01,total_active,Cruisers,ship_type,13,0,CRUISERS,,13
+1923,1923-07-01,total_active,Destroyers,ship_type,103,0,DESTROYERS,,103
+1923,1923-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1923,1923-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1923,1923-07-01,total_active,Mine warfare,ship_type,38,0,MINE WARFARE,,38
+1923,1923-07-01,total_active,Monitors,ship_type,0,0,"MONITORS, COASTAL",,-
+1923,1923-07-01,total_active,Patrol,ship_type,41,0,PATROL,,41
+1923,1923-07-01,total_active,Submarines (attack/general),ship_type,69,5,SUBMARINES,,69 (5rc)
+1923,1923-07-01,total_active,Surface warships (subtotal),subtotal,134,0,SURFACE WARSHIPS,,134
+1923,1923-07-01,total_active,Total active,total,365,5,TOTAL ACTIVE,,365 (5rc)
+1924,1924-07-01,total_active,Aircraft carriers,ship_type,1,0,"CARRIERS, FLEET",,1
+1924,1924-07-01,total_active,Auxiliary & support,ship_type,84,0,AUXILIARY,,84
+1924,1924-07-01,total_active,Battleships,ship_type,18,0,BATTLESHIPS,,18
+1924,1924-07-01,total_active,Cruisers,ship_type,16,0,CRUISERS,,16
+1924,1924-07-01,total_active,Destroyers,ship_type,103,0,DESTROYERS,,103
+1924,1924-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1924,1924-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1924,1924-07-01,total_active,Mine warfare,ship_type,39,0,MINE WARFARE,,39
+1924,1924-07-01,total_active,Patrol,ship_type,37,0,PATROL,,37
+1924,1924-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1924,1924-07-01,total_active,Submarines (attack/general),ship_type,77,3,SUBMARINES,,77(3rc)
+1924,1924-07-01,total_active,Surface warships (subtotal),subtotal,137,0,SURFACE WARSHIPS,,137
+1924,1924-07-01,total_active,Total active,total,376,3,TOTAL ACTIVE,,376 (3rc)
+1925,1925-07-01,total_active,Aircraft carriers,ship_type,1,0,"CARRIERS, FLEET",,1
+1925,1925-07-01,total_active,Auxiliary & support,ship_type,73,0,AUXILIARY,,73
+1925,1925-07-01,total_active,Battleships,ship_type,18,0,BATTLESHIPS,,18
+1925,1925-07-01,total_active,Cruisers,ship_type,18,0,CRUISERS,,18
+1925,1925-07-01,total_active,Destroyers,ship_type,105,0,DESTROYERS,,105
+1925,1925-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1925,1925-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1925,1925-07-01,total_active,Mine warfare,ship_type,40,0,MINE WARFARE,,40
+1925,1925-07-01,total_active,Patrol,ship_type,37,0,PATROL,,37
+1925,1925-07-01,total_active,Rigid airships,ship_type,2,0,RIGID AIRSHIPS,,2
+1925,1925-07-01,total_active,Submarines (attack/general),ship_type,76,3,SUBMARINES,,76(3rc)
+1925,1925-07-01,total_active,Surface warships (subtotal),subtotal,141,0,SURFACE WARSHIPS,,141
+1925,1925-07-01,total_active,Total active,total,370,3,TOTAL ACTIVE,,370 (3rc)
+1926,1926-07-01,total_active,Aircraft carriers,ship_type,1,0,"CARRIERS, FLEET",,1
+1926,1926-07-01,total_active,Auxiliary & support,ship_type,71,0,AUXILIARY,,71
+1926,1926-07-01,total_active,Battleships,ship_type,15,3,BATTLESHIPS,,15(3rc)
+1926,1926-07-01,total_active,Cruisers,ship_type,18,0,CRUISERS,,18
+1926,1926-07-01,total_active,Destroyers,ship_type,106,0,DESTROYERS,,106
+1926,1926-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1926,1926-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1926,1926-07-01,total_active,Mine warfare,ship_type,39,0,MINE WARFARE,,39
+1926,1926-07-01,total_active,Patrol,ship_type,37,0,PATROL,,37
+1926,1926-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1926,1926-07-01,total_active,Submarines (attack/general),ship_type,80,0,SUBMARINES,,80
+1926,1926-07-01,total_active,Surface warships (subtotal),subtotal,139,0,SURFACE WARSHIPS,,139
+1926,1926-07-01,total_active,Total active,total,368,3,TOTAL ACTIVE,,368 (3rc)
+1927,1927-07-01,total_active,Aircraft carriers,ship_type,1,0,"CARRIERS, FLEET",,1
+1927,1927-07-01,total_active,Auxiliary & support,ship_type,69,0,AUXILIARY,,69
+1927,1927-07-01,total_active,Battleships,ship_type,15,3,BATTLESHIPS,,15(3rc)
+1927,1927-07-01,total_active,Cruisers,ship_type,16,0,CRUISERS,,16
+1927,1927-07-01,total_active,Destroyers,ship_type,106,0,DESTROYERS,,106
+1927,1927-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1927,1927-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1927,1927-07-01,total_active,Mine warfare,ship_type,40,0,MINE WARFARE,,40
+1927,1927-07-01,total_active,Patrol,ship_type,32,0,PATROL,,32
+1927,1927-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1927,1927-07-01,total_active,Submarines (attack/general),ship_type,77,0,SUBMARINES,,77
+1927,1927-07-01,total_active,Surface warships (subtotal),subtotal,137,0,SURFACE WARSHIPS,,137
+1927,1927-07-01,total_active,Total active,total,357,3,TOTAL ACTIVE,,357 (3rc)
+1928,1928-07-01,total_active,Aircraft carriers,ship_type,3,0,"CARRIERS, FLEET",,3
+1928,1928-07-01,total_active,Auxiliary & support,ship_type,68,0,AUXILIARY,,68
+1928,1928-07-01,total_active,Battleships,ship_type,16,2,BATTLESHIPS,,16(2rc)
+1928,1928-07-01,total_active,Cruisers,ship_type,16,0,CRUISERS,,16
+1928,1928-07-01,total_active,Destroyers,ship_type,106,0,DESTROYERS,,106
+1928,1928-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1928,1928-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1928,1928-07-01,total_active,Mine warfare,ship_type,40,0,MINE WARFARE,,40
+1928,1928-07-01,total_active,Patrol,ship_type,33,0,PATROL,,33
+1928,1928-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1928,1928-07-01,total_active,Submarines (attack/general),ship_type,77,0,SUBMARINES,,77
+1928,1928-07-01,total_active,Surface warships (subtotal),subtotal,138,0,SURFACE WARSHIPS,,138
+1928,1928-07-01,total_active,Total active,total,360,2,TOTAL ACTIVE,,360 (2rc)
+1929,1929-07-01,total_active,Aircraft carriers,ship_type,3,0,"CARRIERS, FLEET",,3
+1929,1929-07-01,total_active,Auxiliary & support,ship_type,68,0,AUXILIARY,,68
+1929,1929-07-01,total_active,Battleships,ship_type,16,2,BATTLESHIPS,,16(2rc)
+1929,1929-07-01,total_active,Cruisers,ship_type,16,0,CRUISERS,,16
+1929,1929-07-01,total_active,Destroyers,ship_type,103,0,DESTROYERS,,103
+1929,1929-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1929,1929-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1929,1929-07-01,total_active,Mine warfare,ship_type,37,0,MINE WARFARE,,37
+1929,1929-07-01,total_active,Patrol,ship_type,32,0,PATROL,,32
+1929,1929-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1929,1929-07-01,total_active,Submarines (attack/general),ship_type,80,0,SUBMARINES,,80
+1929,1929-07-01,total_active,Surface warships (subtotal),subtotal,135,0,SURFACE WARSHIPS,,135
+1929,1929-07-01,total_active,Total active,total,356,2,TOTAL ACTIVE,,356 (2rc)
+1930,1930-07-01,total_active,Aircraft carriers,ship_type,3,0,"CARRIERS, FLEET",,3
+1930,1930-07-01,total_active,Auxiliary & support,ship_type,68,0,AUXILIARY,,68
+1930,1930-07-01,total_active,Battleships,ship_type,16,2,BATTLESHIPS,,16(2rc)
+1930,1930-07-01,total_active,Cruisers,ship_type,20,0,CRUISERS,,20
+1930,1930-07-01,total_active,Destroyers,ship_type,103,0,DESTROYERS,,103
+1930,1930-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1930,1930-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1930,1930-07-01,total_active,Mine warfare,ship_type,36,0,MINE WARFARE,,36
+1930,1930-07-01,total_active,Patrol,ship_type,29,0,PATROL,,29
+1930,1930-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1930,1930-07-01,total_active,Submarines (attack/general),ship_type,81,0,SUBMARINES,,81
+1930,1930-07-01,total_active,Surface warships (subtotal),subtotal,139,0,SURFACE WARSHIPS,,139
+1930,1930-07-01,total_active,Total active,total,357,3,TOTAL ACTIVE,,357 (3rc)
+1931,1931-07-01,total_active,Aircraft carriers,ship_type,3,0,"CARRIERS, FLEET",,3
+1931,1931-07-01,total_active,Auxiliary & support,ship_type,69,0,AUXILIARY,,69
+1931,1931-07-01,total_active,Battleships,ship_type,12,3,BATTLESHIPS,,12(3rc)
+1931,1931-07-01,total_active,Cruisers,ship_type,20,0,CRUISERS,,20
+1931,1931-07-01,total_active,Destroyers,ship_type,87,0,DESTROYERS,^,87^
+1931,1931-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1931,1931-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1931,1931-07-01,total_active,Mine warfare,ship_type,33,0,MINE WARFARE,,33
+1931,1931-07-01,total_active,Patrol,ship_type,27,1,PATROL,,27(1rc)
+1931,1931-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1931,1931-07-01,total_active,Submarines (attack/general),ship_type,56,0,SUBMARINES,,56
+1931,1931-07-01,total_active,Surface warships (subtotal),subtotal,119,0,SURFACE WARSHIPS,,119
+1931,1931-07-01,total_active,Total active,total,308,4,TOTAL ACTIVE,,308 (4rc)
+1932,1932-07-01,total_active,Aircraft carriers,ship_type,3,0,"CARRIERS, FLEET",,3
+1932,1932-07-01,total_active,Auxiliary & support,ship_type,65,0,AUXILIARY,,65
+1932,1932-07-01,total_active,Battleships,ship_type,11,4,BATTLESHIPS,,11(4rc)
+1932,1932-07-01,total_active,Cruisers,ship_type,19,0,CRUISERS,,19
+1932,1932-07-01,total_active,Destroyers,ship_type,102,0,DESTROYERS,,102
+1932,1932-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1932,1932-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1932,1932-07-01,total_active,Mine warfare,ship_type,33,0,MINE WARFARE,,33
+1932,1932-07-01,total_active,Patrol,ship_type,24,0,PATROL,,24
+1932,1932-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1932,1932-07-01,total_active,Submarines (attack/general),ship_type,55,0,SUBMARINES,,55
+1932,1932-07-01,total_active,Surface warships (subtotal),subtotal,132,0,SURFACE WARSHIPS,,132
+1932,1932-07-01,total_active,Total active,total,313,4,TOTAL ACTIVE,,313 (4rc)
+1933,1933-07-01,total_active,Aircraft carriers,ship_type,3,0,"CARRIERS, FLEET",,3
+1933,1933-07-01,total_active,Auxiliary & support,ship_type,68,0,AUXILIARY,,68
+1933,1933-07-01,total_active,Battleships,ship_type,11,4,BATTLESHIPS,,11(4rc)
+1933,1933-07-01,total_active,Cruisers,ship_type,20,0,CRUISERS,,20
+1933,1933-07-01,total_active,Destroyers,ship_type,101,0,DESTROYERS,,101
+1933,1933-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1933,1933-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1933,1933-07-01,total_active,Mine warfare,ship_type,26,0,MINE WARFARE,,26
+1933,1933-07-01,total_active,Patrol,ship_type,26,0,PATROL,,26
+1933,1933-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1933,1933-07-01,total_active,Submarines (attack/general),ship_type,55,0,SUBMARINES,,55
+1933,1933-07-01,total_active,Surface warships (subtotal),subtotal,132,0,SURFACE WARSHIPS,,132
+1933,1933-07-01,total_active,Total active,total,311,4,TOTAL ACTIVE,,311 (4rc)
+1934,1934-07-01,total_active,Aircraft carriers,ship_type,4,0,"CARRIERS, FLEET",,4
+1934,1934-07-01,total_active,Auxiliary & support,ship_type,71,0,AUXILIARY,,71
+1934,1934-07-01,total_active,Battleships,ship_type,14,1,BATTLESHIPS,,14(1rc)
+1934,1934-07-01,total_active,Cruisers,ship_type,24,0,CRUISERS,,24
+1934,1934-07-01,total_active,Destroyers,ship_type,102,0,DESTROYERS,^^,102^^
+1934,1934-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1934,1934-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1934,1934-07-01,total_active,Mine warfare,ship_type,26,0,MINE WARFARE,,26
+1934,1934-07-01,total_active,Patrol,ship_type,24,0,PATROL,,24
+1934,1934-07-01,total_active,Rigid airships,ship_type,1,0,RIGID AIRSHIPS,,1
+1934,1934-07-01,total_active,Submarines (attack/general),ship_type,54,0,SUBMARINES,,54
+1934,1934-07-01,total_active,Surface warships (subtotal),subtotal,140,0,SURFACE WARSHIPS,,140
+1934,1934-07-01,total_active,Total active,total,320,1,TOTAL ACTIVE,,320 (1rc)
+1935,1935-04-01,total_active,Aircraft carriers,ship_type,4,0,"CARRIERS, FLEET",,4
+1935,1935-04-01,total_active,Auxiliary & support,ship_type,71,0,AUXILIARY,,71
+1935,1935-04-01,total_active,Battleships,ship_type,15,0,BATTLESHIPS,,15
+1935,1935-04-01,total_active,Cruisers,ship_type,25,0,CRUISERS,,25
+1935,1935-04-01,total_active,Destroyers,ship_type,104,0,DESTROYERS,,104
+1935,1935-04-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1935,1935-04-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1935,1935-04-01,total_active,Mine warfare,ship_type,26,0,MINE WARFARE,,26
+1935,1935-04-01,total_active,Patrol,ship_type,23,0,PATROL,,23
+1935,1935-04-01,total_active,Rigid airships,ship_type,0,0,RIGID AIRSHIPS,,-
+1935,1935-04-01,total_active,Submarines (attack/general),ship_type,52,0,SUBMARINES,,52
+1935,1935-04-01,total_active,Surface warships (subtotal),subtotal,144,0,SURFACE WARSHIPS,,144
+1935,1935-04-01,total_active,Total active,total,320,0,TOTAL ACTIVE,,320
+1936,1936-07-01,total_active,Aircraft carriers,ship_type,4,0,"CARRIERS, FLEET",,4
+1936,1936-07-01,total_active,Auxiliary & support,ship_type,73,0,AUXILIARY,,73
+1936,1936-07-01,total_active,Battleships,ship_type,15,0,BATTLESHIPS,,15
+1936,1936-07-01,total_active,Cruisers,ship_type,26,0,CRUISERS,,26
+1936,1936-07-01,total_active,Destroyers,ship_type,106,0,DESTROYERS,,106
+1936,1936-07-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1936,1936-07-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1936,1936-07-01,total_active,Mine warfare,ship_type,26,0,MINE WARFARE,,26
+1936,1936-07-01,total_active,Patrol,ship_type,23,0,PATROL,,23
+1936,1936-07-01,total_active,Rigid airships,ship_type,0,0,RIGID AIRSHIPS,,-
+1936,1936-07-01,total_active,Submarines (attack/general),ship_type,49,0,SUBMARINES,,49
+1936,1936-07-01,total_active,Surface warships (subtotal),subtotal,147,0,SURFACE WARSHIPS,,147
+1936,1936-07-01,total_active,Total active,total,322,0,TOTAL ACTIVE,,322
+1937,1937-09-01,total_active,Aircraft carriers,ship_type,3,0,"CARRIERS, FLEET",@,3@
+1937,1937-09-01,total_active,Auxiliary & support,ship_type,75,0,AUXILIARY,,75
+1937,1937-09-01,total_active,Battleships,ship_type,15,0,BATTLESHIPS,,15
+1937,1937-09-01,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+1937,1937-09-01,total_active,Destroyers,ship_type,111,0,DESTROYERS,,111
+1937,1937-09-01,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1937,1937-09-01,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1937,1937-09-01,total_active,Mine warfare,ship_type,30,0,MINE WARFARE,,30
+1937,1937-09-01,total_active,Patrol,ship_type,22,0,PATROL,,22
+1937,1937-09-01,total_active,Rigid airships,ship_type,0,0,RIGID AIRSHIPS,,-
+1937,1937-09-01,total_active,Submarines (attack/general),ship_type,52,0,SUBMARINES,,52
+1937,1937-09-01,total_active,Surface warships (subtotal),subtotal,153,0,SURFACE WARSHIPS,,153
+1937,1937-09-01,total_active,Total active,total,335,0,TOTAL ACTIVE,,335
+1938,1938-06-30,total_active,Aircraft carriers,ship_type,5,0,"CARRIERS, FLEET",,5
+1938,1938-06-30,total_active,Amphibious,ship_type,0,0,AMPHIBIOUS,,-
+1938,1938-06-30,total_active,Auxiliary & support,ship_type,101,0,AUXILIARY,,101
+1938,1938-06-30,total_active,Battleships,ship_type,15,0,BATTLESHIPS,,15
+1938,1938-06-30,total_active,Cruisers,ship_type,32,0,CRUISERS,,32
+1938,1938-06-30,total_active,Destroyers,ship_type,112,0,DESTROYERS,,112
+1938,1938-06-30,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1938,1938-06-30,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1938,1938-06-30,total_active,Mine warfare,ship_type,27,0,MINE WARFARE,,27
+1938,1938-06-30,total_active,Patrol,ship_type,34,0,PATROL,,34
+1938,1938-06-30,total_active,Submarines (attack/general),ship_type,54,0,SUBMARINES,,54
+1938,1938-06-30,total_active,Surface warships (subtotal),subtotal,159,0,SURFACE WARSHIPS,,159
+1938,1938-06-30,total_active,Total active,total,380,0,TOTAL ACTIVE,,380
+1939,1939-06-30,total_active,Aircraft carriers,ship_type,5,0,"CARRIERS, FLEET",,5
+1939,1939-06-30,total_active,Amphibious,ship_type,0,0,AMPHIBIOUS,,-
+1939,1939-06-30,total_active,Auxiliary & support,ship_type,104,0,AUXILIARY,,104
+1939,1939-06-30,total_active,Battleships,ship_type,15,0,BATTLESHIPS,,15
+1939,1939-06-30,total_active,Cruisers,ship_type,36,0,CRUISERS,,36
+1939,1939-06-30,total_active,Destroyers,ship_type,127,0,DESTROYERS,,127
+1939,1939-06-30,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1939,1939-06-30,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1939,1939-06-30,total_active,Mine warfare,ship_type,29,0,MINE WARFARE,,29
+1939,1939-06-30,total_active,Patrol,ship_type,20,0,PATROL,,20
+1939,1939-06-30,total_active,Submarines (attack/general),ship_type,58,0,SUBMARINES,,58
+1939,1939-06-30,total_active,Surface warships (subtotal),subtotal,178,0,SURFACE WARSHIPS,,178
+1939,1939-06-30,total_active,Total active,total,394,0,TOTAL ACTIVE,,394
+1940,1940-06-30,total_active,Aircraft carriers,ship_type,6,0,"CARRIERS, FLEET",,6
+1940,1940-06-30,total_active,Amphibious,ship_type,0,0,AMPHIBIOUS,,-
+1940,1940-06-30,total_active,Auxiliary & support,ship_type,116,0,AUXILIARY,,116
+1940,1940-06-30,total_active,Battleships,ship_type,15,0,BATTLESHIPS,,15
+1940,1940-06-30,total_active,Cruisers,ship_type,37,0,CRUISERS,,37
+1940,1940-06-30,total_active,Destroyers,ship_type,185,0,DESTROYERS,,185
+1940,1940-06-30,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1940,1940-06-30,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1940,1940-06-30,total_active,Mine warfare,ship_type,36,0,MINE WARFARE,,36
+1940,1940-06-30,total_active,Patrol,ship_type,19,0,PATROL,,19
+1940,1940-06-30,total_active,Submarines (attack/general),ship_type,64,0,SUBMARINES,,64
+1940,1940-06-30,total_active,Surface warships (subtotal),subtotal,237,0,SURFACE WARSHIPS,,237
+1940,1940-06-30,total_active,Total active,total,478,0,TOTAL ACTIVE,,478
+1941,1941-12-07,total_active,Aircraft carriers,ship_type,7,0,"CARRIERS, FLEET",,7
+1941,1941-12-07,total_active,Amphibious,ship_type,0,0,AMPHIBIOUS,,-
+1941,1941-12-07,total_active,Auxiliary & support,ship_type,210,0,AUXILIARY,,210
+1941,1941-12-07,total_active,Battleships,ship_type,17,0,BATTLESHIPS,,17
+1941,1941-12-07,total_active,Cruisers,ship_type,37,0,CRUISERS,,37
+1941,1941-12-07,total_active,Destroyers,ship_type,171,0,DESTROYERS,,171
+1941,1941-12-07,total_active,Escort carriers,ship_type,1,0,"CARRIERS, ESCORT",,1
+1941,1941-12-07,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1941,1941-12-07,total_active,Mine warfare,ship_type,135,0,MINE WARFARE,,135
+1941,1941-12-07,total_active,Patrol,ship_type,100,0,PATROL,,100
+1941,1941-12-07,total_active,Submarines (attack/general),ship_type,112,0,SUBMARINES,,112
+1941,1941-12-07,total_active,Surface warships (subtotal),subtotal,225,0,SURFACE WARSHIPS,,225
+1941,1941-12-07,total_active,Total active,total,790,0,TOTAL ACTIVE,,790
+1942,1942-12-31,total_active,Aircraft carriers,ship_type,4,0,"CARRIERS, FLEET",,4
+1942,1942-12-31,total_active,Amphibious,ship_type,121,0,AMPHIBIOUS,,121
+1942,1942-12-31,total_active,Auxiliary & support,ship_type,392,0,AUXILIARY,,392
+1942,1942-12-31,total_active,Battleships,ship_type,19,0,BATTLESHIPS,,19
+1942,1942-12-31,total_active,Cruisers,ship_type,39,0,CRUISERS,,39
+1942,1942-12-31,total_active,Destroyers,ship_type,224,0,DESTROYERS,,224
+1942,1942-12-31,total_active,Escort carriers,ship_type,12,0,"CARRIERS, ESCORT",,12
+1942,1942-12-31,total_active,Frigates,ship_type,0,0,FRIGATES,,-
+1942,1942-12-31,total_active,Mine warfare,ship_type,323,0,MINE WARFARE,,323
+1942,1942-12-31,total_active,Patrol,ship_type,515,0,PATROL,,515
+1942,1942-12-31,total_active,Submarines (attack/general),ship_type,133,0,SUBMARINES,,133
+1942,1942-12-31,total_active,Surface warships (subtotal),subtotal,282,0,SURFACE WARSHIPS,,282
+1942,1942-12-31,total_active,Total active,total,1782,0,TOTAL ACTIVE,,1782
+1943,1943-12-31,total_active,Aircraft carriers,ship_type,19,0,"CARRIERS, FLEET",,19
+1943,1943-12-31,total_active,Amphibious,ship_type,673,0,AMPHIBIOUS,,673
+1943,1943-12-31,total_active,Auxiliary & support,ship_type,564,0,AUXILIARY,,564
+1943,1943-12-31,total_active,Battleships,ship_type,21,0,BATTLESHIPS,,21
+1943,1943-12-31,total_active,Cruisers,ship_type,48,0,CRUISERS,,48
+1943,1943-12-31,total_active,Destroyers,ship_type,332,0,DESTROYERS,,332
+1943,1943-12-31,total_active,Escort carriers,ship_type,35,0,"CARRIERS, ESCORT",,35
+1943,1943-12-31,total_active,Frigates,ship_type,234,0,FRIGATES,,234
+1943,1943-12-31,total_active,Mine warfare,ship_type,551,0,MINE WARFARE,,551
+1943,1943-12-31,total_active,Patrol,ship_type,1050,0,PATROL,,1050
+1943,1943-12-31,total_active,Submarines (attack/general),ship_type,172,0,SUBMARINES,,172
+1943,1943-12-31,total_active,Surface warships (subtotal),subtotal,635,0,SURFACE WARSHIPS,,635
+1943,1943-12-31,total_active,Total active,total,3699,0,TOTAL ACTIVE,,3699
+1944,1944-12-31,total_active,Aircraft carriers,ship_type,25,0,"CARRIERS, FLEET",,25
+1944,1944-12-31,total_active,Amphibious,ship_type,2147,0,AMPHIBIOUS,,2147
+1944,1944-12-31,total_active,Auxiliary & support,ship_type,993,0,AUXILIARY,,993
+1944,1944-12-31,total_active,Battleships,ship_type,23,0,BATTLESHIPS,,23
+1944,1944-12-31,total_active,Cruisers,ship_type,61,0,CRUISERS,,61
+1944,1944-12-31,total_active,Destroyers,ship_type,367,0,DESTROYERS,,367
+1944,1944-12-31,total_active,Escort carriers,ship_type,65,0,"CARRIERS, ESCORT",,65
+1944,1944-12-31,total_active,Frigates,ship_type,376,0,FRIGATES,,376
+1944,1944-12-31,total_active,Mine warfare,ship_type,614,0,MINE WARFARE,,614
+1944,1944-12-31,total_active,Patrol,ship_type,1183,0,PATROL,,1183
+1944,1944-12-31,total_active,Submarines (attack/general),ship_type,230,0,SUBMARINES,,230
+1944,1944-12-31,total_active,Surface warships (subtotal),subtotal,827,0,SURFACE WARSHIPS,,827
+1944,1944-12-31,total_active,Total active,total,6084,0,TOTAL ACTIVE,,6084
+1945,1945-08-14,total_active,Aircraft carriers,ship_type,28,0,"CARRIERS, FLEET",,28
+1945,1945-08-14,total_active,Amphibious,ship_type,2547,0,AMPHIBIOUS,,2547
+1945,1945-08-14,total_active,Auxiliary & support,ship_type,1267,0,AUXILIARY,,1267
+1945,1945-08-14,total_active,Battleships,ship_type,23,0,BATTLESHIPS,,23
+1945,1945-08-14,total_active,Cruisers,ship_type,72,0,CRUISERS,,72
+1945,1945-08-14,total_active,Destroyers,ship_type,377,0,DESTROYERS,,377
+1945,1945-08-14,total_active,Escort carriers,ship_type,71,0,"CARRIERS, ESCORT",,71
+1945,1945-08-14,total_active,Frigates,ship_type,361,0,FRIGATES,,361
+1945,1945-08-14,total_active,Mine warfare,ship_type,586,0,MINE WARFARE,,586
+1945,1945-08-14,total_active,Patrol,ship_type,1204,0,PATROL,,1204
+1945,1945-08-14,total_active,Submarines (attack/general),ship_type,232,0,SUBMARINES,,232
+1945,1945-08-14,total_active,Surface warships (subtotal),subtotal,833,0,SURFACE WARSHIPS,,833
+1945,1945-08-14,total_active,Total active,total,6768,0,TOTAL ACTIVE,,6768
+1946,1946-06-30,total_active,Aircraft carriers,ship_type,15,0,"CARRIERS, FLEET",,15
+1946,1946-06-30,total_active,Amphibious,ship_type,275,0,AMPHIBIOUS,,275
+1946,1946-06-30,total_active,Auxiliary & support,ship_type,406,0,AUXILIARY,,406
+1946,1946-06-30,total_active,Battleships,ship_type,10,0,BATTLESHIPS,,10
+1946,1946-06-30,total_active,Cruisers,ship_type,36,0,CRUISERS,,36
+1946,1946-06-30,total_active,Destroyers,ship_type,145,0,DESTROYERS,,145
+1946,1946-06-30,total_active,Escort carriers,ship_type,10,0,"CARRIERS, ESCORT",,10
+1946,1946-06-30,total_active,Frigates,ship_type,35,0,FRIGATES,,35
+1946,1946-06-30,total_active,Mine warfare,ship_type,112,0,MINE WARFARE,,112
+1946,1946-06-30,total_active,Patrol,ship_type,119,0,PATROL,,119
+1946,1946-06-30,total_active,Submarines (attack/general),ship_type,85,0,SUBMARINES,,85
+1946,1946-06-30,total_active,Surface warships (subtotal),subtotal,226,0,SURFACE WARSHIPS,,226
+1946,1946-06-30,total_active,Total active,total,1248,0,TOTAL ACTIVE,,1248
+1947,1947-06-30,total_active,Aircraft carriers,ship_type,14,0,"CARRIERS, FLEET",,14
+1947,1947-06-30,total_active,Amphibious,ship_type,107,0,AMPHIBIOUS,,107
+1947,1947-06-30,total_active,Auxiliary & support,ship_type,306,0,AUXILIARY,,306
+1947,1947-06-30,total_active,Battleships,ship_type,4,0,BATTLESHIPS,,4
+1947,1947-06-30,total_active,Cruisers,ship_type,32,0,CRUISERS,,32
+1947,1947-06-30,total_active,Destroyers,ship_type,138,0,DESTROYERS,,138
+1947,1947-06-30,total_active,Escort carriers,ship_type,8,0,"CARRIERS, ESCORT",,8
+1947,1947-06-30,total_active,Frigates,ship_type,24,0,FRIGATES,,24
+1947,1947-06-30,total_active,Mine warfare,ship_type,55,0,MINE WARFARE,,55
+1947,1947-06-30,total_active,Patrol,ship_type,74,0,PATROL,,74
+1947,1947-06-30,total_active,Submarines (attack/general),ship_type,80,0,SUBMARINES,,80
+1947,1947-06-30,total_active,Surface warships (subtotal),subtotal,198,0,SURFACE WARSHIPS,,198
+1947,1947-06-30,total_active,Total active,total,842,0,TOTAL ACTIVE,,842
+1948,1948-06-30,total_active,Aircraft carriers,ship_type,13,0,"CARRIERS, FLEET",,13
+1948,1948-06-30,total_active,Amphibious,ship_type,86,0,AMPHIBIOUS,,86
+1948,1948-06-30,total_active,Auxiliary & support,ship_type,273,0,AUXILIARY,,273
+1948,1948-06-30,total_active,Battleships,ship_type,2,0,BATTLESHIPS,,2
+1948,1948-06-30,total_active,Cruisers,ship_type,32,0,CRUISERS,,32
+1948,1948-06-30,total_active,Destroyers,ship_type,134,0,DESTROYERS,,134
+1948,1948-06-30,total_active,Escort carriers,ship_type,7,0,"CARRIERS, ESCORT",,7
+1948,1948-06-30,total_active,Frigates,ship_type,12,0,FRIGATES,,12
+1948,1948-06-30,total_active,Mine warfare,ship_type,54,0,MINE WARFARE,,54
+1948,1948-06-30,total_active,Patrol,ship_type,50,0,PATROL,,50
+1948,1948-06-30,total_active,Submarines (attack/general),ship_type,74,0,SUBMARINES,,74
+1948,1948-06-30,total_active,Surface warships (subtotal),subtotal,180,0,SURFACE WARSHIPS,,180
+1948,1948-06-30,total_active,Total active,total,737,0,TOTAL ACTIVE,,737
+1949,1949-06-30,total_active,Aircraft carriers,ship_type,11,0,"CARRIERS, FLEET",,11
+1949,1949-06-30,total_active,Amphibious,ship_type,60,0,AMPHIBIOUS,,60
+1949,1949-06-30,total_active,Auxiliary & support,ship_type,257,0,AUXILIARY,,257
+1949,1949-06-30,total_active,Battleships,ship_type,1,0,BATTLESHIPS,,1
+1949,1949-06-30,total_active,Cruisers,ship_type,18,0,CRUISERS,,18
+1949,1949-06-30,total_active,Destroyers,ship_type,143,0,DESTROYERS,,143
+1949,1949-06-30,total_active,Escort carriers,ship_type,7,0,"CARRIERS, ESCORT",,7
+1949,1949-06-30,total_active,Frigates,ship_type,12,0,FRIGATES,,12
+1949,1949-06-30,total_active,Mine warfare,ship_type,52,0,MINE WARFARE,,52
+1949,1949-06-30,total_active,Patrol,ship_type,50,0,PATROL,,50
+1949,1949-06-30,total_active,Submarines (attack/general),ship_type,79,0,SUBMARINES,,79
+1949,1949-06-30,total_active,Surface warships (subtotal),subtotal,174,0,SURFACE WARSHIPS,,174
+1949,1949-06-30,total_active,Total active,total,690,0,TOTAL ACTIVE,,690
+1950,1950-06-30,total_active,Aircraft carriers,ship_type,11,0,"CARRIERS, FLEET",,11
+1950,1950-06-30,total_active,Amphibious,ship_type,79,0,AMPHIBIOUS,,79
+1950,1950-06-30,total_active,Auxiliary & support,ship_type,218,0,AUXILIARY,,218
+1950,1950-06-30,total_active,Battleships,ship_type,1,0,BATTLESHIPS,,1
+1950,1950-06-30,total_active,Cruisers,ship_type,13,0,CRUISERS,,13
+1950,1950-06-30,total_active,Destroyers,ship_type,137,0,DESTROYERS,,137
+1950,1950-06-30,total_active,Escort carriers,ship_type,4,0,"CARRIERS, ESCORT",,4
+1950,1950-06-30,total_active,Frigates,ship_type,10,0,FRIGATES,,10
+1950,1950-06-30,total_active,Mine warfare,ship_type,56,0,MINE WARFARE,,56
+1950,1950-06-30,total_active,Patrol,ship_type,33,0,PATROL,,33
+1950,1950-06-30,total_active,Submarines (attack/general),ship_type,72,0,SUBMARINES,,72
+1950,1950-06-30,total_active,Surface warships (subtotal),subtotal,161,0,SURFACE WARSHIPS,,161
+1950,1950-06-30,total_active,Total active,total,634,0,TOTAL ACTIVE,,634
+1951,1951-06-30,total_active,Aircraft carriers,ship_type,17,0,"CARRIERS, FLEET",,17
+1951,1951-06-30,total_active,Amphibious,ship_type,208,0,AMPHIBIOUS,,208
+1951,1951-06-30,total_active,Auxiliary & support,ship_type,269,0,AUXILIARY,,269
+1951,1951-06-30,total_active,Battleships,ship_type,3,0,BATTLESHIPS,,3
+1951,1951-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1951,1951-06-30,total_active,Cruisers,ship_type,15,0,CRUISERS,,15
+1951,1951-06-30,total_active,Destroyers,ship_type,206,0,DESTROYERS,,206
+1951,1951-06-30,total_active,Escort carriers,ship_type,9,0,"CARRIERS, ESCORT",,9
+1951,1951-06-30,total_active,Frigates,ship_type,38,0,FRIGATES,,38
+1951,1951-06-30,total_active,Mine warfare,ship_type,91,0,MINE WARFARE,,91
+1951,1951-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,1,0,SSG/SSBNS *,,1
+1951,1951-06-30,total_active,Patrol,ship_type,40,0,PATROL,,40
+1951,1951-06-30,total_active,Submarines (attack/general),ship_type,83,0,SUBMARINES,,83
+1951,1951-06-30,total_active,Surface warships (subtotal),subtotal,262,0,SURFACE WARSHIPS,,262
+1951,1951-06-30,total_active,Total active,total,980,0,TOTAL ACTIVE,,980
+1952,1952-06-30,total_active,Aircraft carriers,ship_type,19,0,"CARRIERS, FLEET",,19
+1952,1952-06-30,total_active,Amphibious,ship_type,189,0,AMPHIBIOUS,,189
+1952,1952-06-30,total_active,Auxiliary & support,ship_type,309,0,AUXILIARY,,309
+1952,1952-06-30,total_active,Battleships,ship_type,4,0,BATTLESHIPS,,4
+1952,1952-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1952,1952-06-30,total_active,Cruisers,ship_type,19,0,CRUISERS,,19
+1952,1952-06-30,total_active,Destroyers,ship_type,243,0,DESTROYERS,,243
+1952,1952-06-30,total_active,Escort carriers,ship_type,10,0,"CARRIERS, ESCORT",,10
+1952,1952-06-30,total_active,Frigates,ship_type,56,0,FRIGATES,,56
+1952,1952-06-30,total_active,Mine warfare,ship_type,114,0,MINE WARFARE,,114
+1952,1952-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,1,0,SSG/SSBNS *,,1
+1952,1952-06-30,total_active,Patrol,ship_type,29,0,PATROL,,29
+1952,1952-06-30,total_active,Submarines (attack/general),ship_type,104,0,SUBMARINES,,104
+1952,1952-06-30,total_active,Surface warships (subtotal),subtotal,322,0,SURFACE WARSHIPS,,322
+1952,1952-06-30,total_active,Total active,total,1097,0,TOTAL ACTIVE,,1097
+1953,1953-06-30,total_active,Aircraft carriers,ship_type,19,0,"CARRIERS, FLEET",,19
+1953,1953-06-30,total_active,Amphibious,ship_type,226,0,AMPHIBIOUS,,226
+1953,1953-06-30,total_active,Auxiliary & support,ship_type,287,0,AUXILIARY,,287
+1953,1953-06-30,total_active,Battleships,ship_type,4,0,BATTLESHIPS,,4
+1953,1953-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1953,1953-06-30,total_active,Cruisers,ship_type,19,0,CRUISERS,,19
+1953,1953-06-30,total_active,Destroyers,ship_type,247,0,DESTROYERS,,247
+1953,1953-06-30,total_active,Escort carriers,ship_type,10,0,"CARRIERS, ESCORT",,10
+1953,1953-06-30,total_active,Frigates,ship_type,56,0,FRIGATES,,56
+1953,1953-06-30,total_active,Mine warfare,ship_type,121,0,MINE WARFARE,,121
+1953,1953-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,2,0,SSG/SSBNS *,,2
+1953,1953-06-30,total_active,Patrol,ship_type,23,0,PATROL,,23
+1953,1953-06-30,total_active,Submarines (attack/general),ship_type,108,0,SUBMARINES,,108
+1953,1953-06-30,total_active,Surface warships (subtotal),subtotal,326,0,SURFACE WARSHIPS,,326
+1953,1953-06-30,total_active,Total active,total,1122,0,TOTAL ACTIVE,,1122
+1954,1954-06-30,total_active,Aircraft carriers,ship_type,20,0,"CARRIERS, FLEET",,20
+1954,1954-06-30,total_active,Amphibious,ship_type,223,0,AMPHIBIOUS,,223
+1954,1954-06-30,total_active,Auxiliary & support,ship_type,288,0,AUXILIARY,,288
+1954,1954-06-30,total_active,Battleships,ship_type,4,0,BATTLESHIPS,,4
+1954,1954-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1954,1954-06-30,total_active,Cruisers,ship_type,18,0,CRUISERS,,18
+1954,1954-06-30,total_active,Destroyers,ship_type,247,0,DESTROYERS,,247
+1954,1954-06-30,total_active,Escort carriers,ship_type,7,0,"CARRIERS, ESCORT",,7
+1954,1954-06-30,total_active,Frigates,ship_type,57,0,FRIGATES,,57
+1954,1954-06-30,total_active,Mine warfare,ship_type,117,0,MINE WARFARE,,117
+1954,1954-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,2,0,SSG/SSBNS *,,2
+1954,1954-06-30,total_active,Patrol,ship_type,22,0,PATROL,,22
+1954,1954-06-30,total_active,Submarines (attack/general),ship_type,108,0,SUBMARINES,,108
+1954,1954-06-30,total_active,Surface warships (subtotal),subtotal,326,0,SURFACE WARSHIPS,,326
+1954,1954-06-30,total_active,Total active,total,1113,0,TOTAL ACTIVE,,1113
+1955,1955-06-30,total_active,Aircraft carriers,ship_type,21,0,"CARRIERS, FLEET",,21
+1955,1955-06-30,total_active,Amphibious,ship_type,175,0,AMPHIBIOUS,,175
+1955,1955-06-30,total_active,Auxiliary & support,ship_type,262,0,AUXILIARY,,262
+1955,1955-06-30,total_active,Battleships,ship_type,3,0,BATTLESHIPS,,3
+1955,1955-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1955,1955-06-30,total_active,Cruisers,ship_type,17,0,CRUISERS,,17
+1955,1955-06-30,total_active,Destroyers,ship_type,249,0,DESTROYERS,,249
+1955,1955-06-30,total_active,Escort carriers,ship_type,3,0,"CARRIERS, ESCORT",,3
+1955,1955-06-30,total_active,Frigates,ship_type,64,0,FRIGATES,,64
+1955,1955-06-30,total_active,Mine warfare,ship_type,112,0,MINE WARFARE,,112
+1955,1955-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,1,0,SSG/SSBNS *,,1
+1955,1955-06-30,total_active,Patrol,ship_type,15,0,PATROL,,15
+1955,1955-06-30,total_active,Submarines (attack/general),ship_type,108,0,SUBMARINES,,108
+1955,1955-06-30,total_active,Surface warships (subtotal),subtotal,333,0,SURFACE WARSHIPS,,333
+1955,1955-06-30,total_active,Total active,total,1030,0,TOTAL ACTIVE,,1030
+1956,1956-06-30,total_active,Aircraft carriers,ship_type,22,0,"CARRIERS, FLEET",,22
+1956,1956-06-30,total_active,Amphibious,ship_type,139,0,AMPHIBIOUS,,139
+1956,1956-06-30,total_active,Auxiliary & support,ship_type,236,0,AUXILIARY,,236
+1956,1956-06-30,total_active,Battleships,ship_type,3,0,BATTLESHIPS,,3
+1956,1956-06-30,total_active,Command ships,ship_type,1,0,COMMAND SHIPS,,1
+1956,1956-06-30,total_active,Cruisers,ship_type,16,0,CRUISERS,,16
+1956,1956-06-30,total_active,Destroyers,ship_type,250,0,DESTROYERS,,250
+1956,1956-06-30,total_active,Escort carriers,ship_type,2,0,"CARRIERS, ESCORT",,2
+1956,1956-06-30,total_active,Frigates,ship_type,70,0,FRIGATES,,70
+1956,1956-06-30,total_active,Mine warfare,ship_type,113,0,MINE WARFARE,,113
+1956,1956-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,2,0,SSG/SSBNS *,,2
+1956,1956-06-30,total_active,Patrol,ship_type,11,0,PATROL,,11
+1956,1956-06-30,total_active,Submarines (attack/general),ship_type,108,0,SUBMARINES,,108
+1956,1956-06-30,total_active,Surface warships (subtotal),subtotal,339,0,SURFACE WARSHIPS,,339
+1956,1956-06-30,total_active,Total active,total,973,0,TOTAL ACTIVE,,973
+1957,1957-06-30,total_active,Aircraft carriers,ship_type,22,0,"CARRIERS, FLEET",,22
+1957,1957-06-30,total_active,Amphibious,ship_type,134,0,AMPHIBIOUS,,134
+1957,1957-06-30,total_active,Auxiliary & support,ship_type,224,0,AUXILIARY,,224
+1957,1957-06-30,total_active,Battleships,ship_type,2,0,BATTLESHIPS,,2
+1957,1957-06-30,total_active,Command ships,ship_type,1,0,COMMAND SHIPS,,1
+1957,1957-06-30,total_active,Cruisers,ship_type,16,0,CRUISERS,,16
+1957,1957-06-30,total_active,Destroyers,ship_type,253,0,DESTROYERS,,253
+1957,1957-06-30,total_active,Escort carriers,ship_type,0,0,"CARRIERS, ESCORT",,-
+1957,1957-06-30,total_active,Frigates,ship_type,84,0,FRIGATES,,84
+1957,1957-06-30,total_active,Mine warfare,ship_type,104,0,MINE WARFARE,,104
+1957,1957-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,2,0,SSG/SSBNS *,,2
+1957,1957-06-30,total_active,Patrol,ship_type,12,0,PATROL,,12
+1957,1957-06-30,total_active,Submarines (attack/general),ship_type,113,0,SUBMARINES,,113
+1957,1957-06-30,total_active,Surface warships (subtotal),subtotal,355,0,SURFACE WARSHIPS,,355
+1957,1957-06-30,total_active,Total active,total,967,0,TOTAL ACTIVE,,967
+1958,1958-06-30,total_active,Aircraft carriers,ship_type,24,0,CARRIERS,,24
+1958,1958-06-30,total_active,Amphibious,ship_type,121,0,AMPHIBIOUS,,121
+1958,1958-06-30,total_active,Auxiliary & support,ship_type,213,0,AUXILIARY,,213
+1958,1958-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1958,1958-06-30,total_active,Command ships,ship_type,1,0,COMMAND SHIPS,,1
+1958,1958-06-30,total_active,Cruisers,ship_type,15,0,CRUISERS,,15
+1958,1958-06-30,total_active,Destroyers,ship_type,245,0,DESTROYERS,,245
+1958,1958-06-30,total_active,Frigates,ship_type,71,0,FRIGATES,,71
+1958,1958-06-30,total_active,Mine warfare,ship_type,77,0,MINE WARFARE,,77
+1958,1958-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,2,0,SSG/SSBNS,,2
+1958,1958-06-30,total_active,Patrol,ship_type,12,0,PATROL,,12
+1958,1958-06-30,total_active,Submarines (attack/general),ship_type,109,0,SUBMARINES,,109
+1958,1958-06-30,total_active,Surface warships (subtotal),subtotal,331,0,SURFACE WARSHIPS,,331
+1958,1958-06-30,total_active,Total active,total,890,0,TOTAL ACTIVE,,890
+1959,1959-06-30,total_active,Aircraft carriers,ship_type,23,0,CARRIERS,,23
+1959,1959-06-30,total_active,Amphibious,ship_type,120,0,AMPHIBIOUS,,120
+1959,1959-06-30,total_active,Auxiliary & support,ship_type,205,0,AUXILIARY,,205
+1959,1959-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1959,1959-06-30,total_active,Command ships,ship_type,1,0,COMMAND SHIPS,,1
+1959,1959-06-30,total_active,Cruisers,ship_type,12,0,CRUISERS,,12
+1959,1959-06-30,total_active,Destroyers,ship_type,237,0,DESTROYERS,,237
+1959,1959-06-30,total_active,Frigates,ship_type,61,0,FRIGATES,,61
+1959,1959-06-30,total_active,Mine warfare,ship_type,82,0,MINE WARFARE,,82
+1959,1959-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,4,0,SSG/SSBNS,,4
+1959,1959-06-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1959,1959-06-30,total_active,Submarines (attack/general),ship_type,109,0,SUBMARINES,,109
+1959,1959-06-30,total_active,Surface warships (subtotal),subtotal,310,0,SURFACE WARSHIPS,,310
+1959,1959-06-30,total_active,Total active,total,860,0,TOTAL ACTIVE,,860
+1960,1960-06-30,total_active,Aircraft carriers,ship_type,23,0,CARRIERS,,23
+1960,1960-06-30,total_active,Amphibious,ship_type,113,0,AMPHIBIOUS,,113
+1960,1960-06-30,total_active,Auxiliary & support,ship_type,197,0,AUXILIARY,,197
+1960,1960-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1960,1960-06-30,total_active,Command ships,ship_type,1,0,COMMAND SHIPS,,1
+1960,1960-06-30,total_active,Cruisers,ship_type,13,0,CRUISERS,,13
+1960,1960-06-30,total_active,Destroyers,ship_type,226,0,DESTROYERS,,226
+1960,1960-06-30,total_active,Frigates,ship_type,41,0,FRIGATES,,41
+1960,1960-06-30,total_active,Mine warfare,ship_type,81,0,MINE WARFARE,,81
+1960,1960-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,7,0,SSG/SSBNS,,7
+1960,1960-06-30,total_active,Patrol,ship_type,4,0,PATROL,,4
+1960,1960-06-30,total_active,Submarines (attack/general),ship_type,106,0,SUBMARINES,,106
+1960,1960-06-30,total_active,Surface warships (subtotal),subtotal,280,0,SURFACE WARSHIPS,,280
+1960,1960-06-30,total_active,Total active,total,812,0,TOTAL ACTIVE,,812
+1961,1961-06-30,total_active,Aircraft carriers,ship_type,24,0,CARRIERS,,24
+1961,1961-06-30,total_active,Amphibious,ship_type,110,0,AMPHIBIOUS,,110
+1961,1961-06-30,total_active,Auxiliary & support,ship_type,206,0,AUXILIARY,,206
+1961,1961-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1961,1961-06-30,total_active,Command ships,ship_type,1,0,COMMAND SHIPS,,1
+1961,1961-06-30,total_active,Cruisers,ship_type,12,0,CRUISERS,,12
+1961,1961-06-30,total_active,Destroyers,ship_type,223,0,DESTROYERS,,223
+1961,1961-06-30,total_active,Frigates,ship_type,41,0,FRIGATES,,41
+1961,1961-06-30,total_active,Mine warfare,ship_type,83,0,MINE WARFARE,,83
+1961,1961-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,10,0,SSG/SSBNS,,10
+1961,1961-06-30,total_active,Patrol,ship_type,4,0,PATROL,,4
+1961,1961-06-30,total_active,Submarines (attack/general),ship_type,105,0,SUBMARINES,,105
+1961,1961-06-30,total_active,Surface warships (subtotal),subtotal,276,0,SURFACE WARSHIPS,,276
+1961,1961-06-30,total_active,Total active,total,819,0,TOTAL ACTIVE,,819
+1962,1962-06-30,total_active,Aircraft carriers,ship_type,26,0,CARRIERS,,26
+1962,1962-06-30,total_active,Amphibious,ship_type,130,0,AMPHIBIOUS,,130
+1962,1962-06-30,total_active,Auxiliary & support,ship_type,218,0,AUXILIARY,,218
+1962,1962-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1962,1962-06-30,total_active,Command ships,ship_type,1,0,COMMAND SHIPS,,1
+1962,1962-06-30,total_active,Cruisers,ship_type,13,0,CRUISERS,,13
+1962,1962-06-30,total_active,Destroyers,ship_type,240,0,DESTROYERS,,240
+1962,1962-06-30,total_active,Frigates,ship_type,68,0,FRIGATES,,68
+1962,1962-06-30,total_active,Mine warfare,ship_type,84,0,MINE WARFARE,,84
+1962,1962-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,14,0,SSG/SSBNS,,14
+1962,1962-06-30,total_active,Patrol,ship_type,2,0,PATROL,,2
+1962,1962-06-30,total_active,Submarines (attack/general),ship_type,104,0,SUBMARINES,,104
+1962,1962-06-30,total_active,Surface warships (subtotal),subtotal,321,0,SURFACE WARSHIPS,,321
+1962,1962-06-30,total_active,Total active,total,900,0,TOTAL ACTIVE,,900
+1963,1963-06-30,total_active,Aircraft carriers,ship_type,24,0,CARRIERS,,24
+1963,1963-06-30,total_active,Amphibious,ship_type,132,0,AMPHIBIOUS,,132
+1963,1963-06-30,total_active,Auxiliary & support,ship_type,216,0,AUXILIARY,,216
+1963,1963-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1963,1963-06-30,total_active,Command ships,ship_type,2,0,COMMAND SHIPS,,2
+1963,1963-06-30,total_active,Cruisers,ship_type,18,0,CRUISERS,,18
+1963,1963-06-30,total_active,Destroyers,ship_type,222,0,DESTROYERS,,222
+1963,1963-06-30,total_active,Frigates,ship_type,40,0,FRIGATES,,40
+1963,1963-06-30,total_active,Mine warfare,ship_type,84,0,MINE WARFARE,,84
+1963,1963-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,17,0,SSG/SSBNS,,17
+1963,1963-06-30,total_active,Patrol,ship_type,0,0,PATROL,,-
+1963,1963-06-30,total_active,Submarines (attack/general),ship_type,102,0,SUBMARINES,,102
+1963,1963-06-30,total_active,Surface warships (subtotal),subtotal,280,0,SURFACE WARSHIPS,,280
+1963,1963-06-30,total_active,Total active,total,857,0,TOTAL ACTIVE,,857
+1964,1964-06-30,total_active,Aircraft carriers,ship_type,24,0,CARRIERS,,24
+1964,1964-06-30,total_active,Amphibious,ship_type,133,0,AMPHIBIOUS,,133
+1964,1964-06-30,total_active,Auxiliary & support,ship_type,212,0,AUXILIARY,,212
+1964,1964-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1964,1964-06-30,total_active,Command ships,ship_type,2,0,COMMAND SHIPS,,2
+1964,1964-06-30,total_active,Cruisers,ship_type,24,0,CRUISERS,,24
+1964,1964-06-30,total_active,Destroyers,ship_type,215,0,DESTROYERS,,215
+1964,1964-06-30,total_active,Frigates,ship_type,40,0,FRIGATES,,40
+1964,1964-06-30,total_active,Mine warfare,ship_type,84,0,MINE WARFARE,,84
+1964,1964-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,23,0,SSG/SSBNS,,23
+1964,1964-06-30,total_active,Patrol,ship_type,0,0,PATROL,,-
+1964,1964-06-30,total_active,Submarines (attack/general),ship_type,102,0,SUBMARINES,,102
+1964,1964-06-30,total_active,Surface warships (subtotal),subtotal,279,0,SURFACE WARSHIPS,,279
+1964,1964-06-30,total_active,Total active,total,859,0,TOTAL ACTIVE,,859
+1965,1965-06-30,total_active,Aircraft carriers,ship_type,25,0,CARRIERS,,25
+1965,1965-06-30,total_active,Amphibious,ship_type,135,0,AMPHIBIOUS,,135
+1965,1965-06-30,total_active,Auxiliary & support,ship_type,213,0,AUXILIARY,,213
+1965,1965-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1965,1965-06-30,total_active,Command ships,ship_type,2,0,COMMAND SHIPS,,2
+1965,1965-06-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+1965,1965-06-30,total_active,Destroyers,ship_type,221,0,DESTROYERS,,221
+1965,1965-06-30,total_active,Frigates,ship_type,39,0,FRIGATES,,39
+1965,1965-06-30,total_active,Mine warfare,ship_type,84,0,MINE WARFARE,,84
+1965,1965-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,30,0,SSG/SSBNS,,30
+1965,1965-06-30,total_active,Patrol,ship_type,0,0,PATROL,,-
+1965,1965-06-30,total_active,Submarines (attack/general),ship_type,104,0,SUBMARINES,,104
+1965,1965-06-30,total_active,Surface warships (subtotal),subtotal,287,0,SURFACE WARSHIPS,,287
+1965,1965-06-30,total_active,Total active,total,880,0,TOTAL ACTIVE,,880
+1966,1966-06-30,total_active,Aircraft carriers,ship_type,23,0,CARRIERS,,23
+1966,1966-06-30,total_active,Amphibious,ship_type,159,0,AMPHIBIOUS,,159
+1966,1966-06-30,total_active,Auxiliary & support,ship_type,212,0,AUXILIARY,,212
+1966,1966-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1966,1966-06-30,total_active,Command ships,ship_type,2,0,COMMAND SHIPS,,2
+1966,1966-06-30,total_active,Cruisers,ship_type,29,0,CRUISERS,,29
+1966,1966-06-30,total_active,Destroyers,ship_type,217,0,DESTROYERS,,217
+1966,1966-06-30,total_active,Frigates,ship_type,42,0,FRIGATES,,42
+1966,1966-06-30,total_active,Mine warfare,ship_type,84,0,MINE WARFARE,,84
+1966,1966-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,37,0,SSG/SSBNS,,37
+1966,1966-06-30,total_active,Patrol,ship_type,0,0,PATROL,,-
+1966,1966-06-30,total_active,Submarines (attack/general),ship_type,104,0,SUBMARINES,,104
+1966,1966-06-30,total_active,Surface warships (subtotal),subtotal,288,0,SURFACE WARSHIPS,,288
+1966,1966-06-30,total_active,Total active,total,909,0,TOTAL ACTIVE,,909
+1967,1967-06-30,total_active,Aircraft carriers,ship_type,23,0,CARRIERS,,23
+1967,1967-06-30,total_active,Amphibious,ship_type,162,0,AMPHIBIOUS,,162
+1967,1967-06-30,total_active,Auxiliary & support,ship_type,216,0,AUXILIARY,,216
+1967,1967-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1967,1967-06-30,total_active,Command ships,ship_type,2,0,COMMAND SHIPS,,2
+1967,1967-06-30,total_active,Cruisers,ship_type,35,0,CRUISERS,,35
+1967,1967-06-30,total_active,Destroyers,ship_type,216,0,DESTROYERS,,216
+1967,1967-06-30,total_active,Frigates,ship_type,46,0,FRIGATES,,46
+1967,1967-06-30,total_active,Mine warfare,ship_type,83,0,MINE WARFARE,,83
+1967,1967-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSG/SSBNS,,41
+1967,1967-06-30,total_active,Patrol,ship_type,3,0,PATROL,,3
+1967,1967-06-30,total_active,Submarines (attack/general),ship_type,105,0,SUBMARINES,,105
+1967,1967-06-30,total_active,Surface warships (subtotal),subtotal,296,0,SURFACE WARSHIPS,,296
+1967,1967-06-30,total_active,Total active,total,932,0,TOTAL ACTIVE,,932
+1968,1968-06-30,total_active,Aircraft carriers,ship_type,23,0,CARRIERS,,23
+1968,1968-06-30,total_active,Amphibious,ship_type,157,0,AMPHIBIOUS,,157
+1968,1968-06-30,total_active,Auxiliary & support,ship_type,210,0,AUXILIARY,,210
+1968,1968-06-30,total_active,Battleships,ship_type,1,0,BATTLESHIPS,,1
+1968,1968-06-30,total_active,Command ships,ship_type,2,0,COMMAND SHIPS,,2
+1968,1968-06-30,total_active,Cruisers,ship_type,35,0,CRUISERS,,35
+1968,1968-06-30,total_active,Destroyers,ship_type,219,0,DESTROYERS,,219
+1968,1968-06-30,total_active,Frigates,ship_type,50,0,FRIGATES,,50
+1968,1968-06-30,total_active,Mine warfare,ship_type,84,0,MINE WARFARE,,84
+1968,1968-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSG/SSBNS,,41
+1968,1968-06-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1968,1968-06-30,total_active,Submarines (attack/general),ship_type,105,0,SUBMARINES,,105
+1968,1968-06-30,total_active,Surface warships (subtotal),subtotal,304,0,SURFACE WARSHIPS,*,304*
+1968,1968-06-30,total_active,Total active,total,933,0,TOTAL ACTIVE,,933
+1969,1969-06-30,total_active,Aircraft carriers,ship_type,22,0,CARRIERS,,22
+1969,1969-06-30,total_active,Amphibious,ship_type,153,0,AMPHIBIOUS,,153
+1969,1969-06-30,total_active,Auxiliary & support,ship_type,207,0,AUXILIARY,,207
+1969,1969-06-30,total_active,Battleships,ship_type,1,0,BATTLESHIPS,,1
+1969,1969-06-30,total_active,Command ships,ship_type,2,0,COMMAND SHIPS,,2
+1969,1969-06-30,total_active,Cruisers,ship_type,34,0,CRUISERS,,34
+1969,1969-06-30,total_active,Destroyers,ship_type,201,0,DESTROYERS,,201
+1969,1969-06-30,total_active,Frigates,ship_type,43,0,FRIGATES,,43
+1969,1969-06-30,total_active,Mine warfare,ship_type,74,0,MINE WARFARE,,74
+1969,1969-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSG/SSBNS,,41
+1969,1969-06-30,total_active,Patrol,ship_type,7,0,PATROL,,7
+1969,1969-06-30,total_active,Submarines (attack/general),ship_type,100,0,SUBMARINES,,100
+1969,1969-06-30,total_active,Surface warships (subtotal),subtotal,279,0,SURFACE WARSHIPS,,279
+1969,1969-06-30,total_active,Total active,total,885,0,TOTAL ACTIVE,,885
+1970,1970-06-30,total_active,Aircraft carriers,ship_type,19,0,CARRIERS,,19
+1970,1970-06-30,total_active,Amphibious,ship_type,97,0,AMPHIBIOUS,,97
+1970,1970-06-30,total_active,Auxiliary & support,ship_type,171,0,AUXILIARY,,171
+1970,1970-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1970,1970-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1970,1970-06-30,total_active,Cruisers,ship_type,31,0,CRUISERS,,31
+1970,1970-06-30,total_active,Destroyers,ship_type,155,0,DESTROYERS,,155
+1970,1970-06-30,total_active,Frigates,ship_type,47,0,FRIGATES,,47
+1970,1970-06-30,total_active,Mine warfare,ship_type,64,0,MINE WARFARE,,64
+1970,1970-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSG/SSBNS,,41
+1970,1970-06-30,total_active,Patrol,ship_type,15,0,PATROL,,15
+1970,1970-06-30,total_active,Submarines (attack/general),ship_type,103,0,SUBMARINES,,103
+1970,1970-06-30,total_active,Surface warships (subtotal),subtotal,249,0,SURFACE WARSHIPS,,249
+1970,1970-06-30,total_active,Total active,total,743,0,TOTAL ACTIVE,,743
+1971,1971-06-30,total_active,Aircraft carriers,ship_type,19,0,CARRIERS,,19
+1971,1971-06-30,total_active,Amphibious,ship_type,95,0,AMPHIBIOUS,,95
+1971,1971-06-30,total_active,Auxiliary & support,ship_type,177,0,AUXILIARY,,177
+1971,1971-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1971,1971-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1971,1971-06-30,total_active,Cruisers,ship_type,30,0,CRUISERS,,30
+1971,1971-06-30,total_active,Destroyers,ship_type,152,0,DESTROYERS,,152
+1971,1971-06-30,total_active,Frigates,ship_type,61,0,FRIGATES,,61
+1971,1971-06-30,total_active,Mine warfare,ship_type,59,0,MINE WARFARE,,59
+1971,1971-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSG/SSBNS,,41
+1971,1971-06-30,total_active,Patrol,ship_type,17,0,PATROL,,17
+1971,1971-06-30,total_active,Submarines (attack/general),ship_type,100,0,SUBMARINES,,100
+1971,1971-06-30,total_active,Surface warships (subtotal),subtotal,262,0,SURFACE WARSHIPS,,262
+1971,1971-06-30,total_active,Total active,total,751,0,TOTAL ACTIVE,,751
+1972,1972-06-30,total_active,Aircraft carriers,ship_type,17,0,CARRIERS,,17
+1972,1972-06-30,total_active,Amphibious,ship_type,77,0,AMPHIBIOUS,,77
+1972,1972-06-30,total_active,Auxiliary & support,ship_type,153,0,AUXILIARY,,153
+1972,1972-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1972,1972-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1972,1972-06-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+1972,1972-06-30,total_active,Destroyers,ship_type,132,0,DESTROYERS,,132
+1972,1972-06-30,total_active,Frigates,ship_type,66,0,FRIGATES,,66
+1972,1972-06-30,total_active,Mine warfare,ship_type,31,0,MINE WARFARE,,31
+1972,1972-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSBNS,,41
+1972,1972-06-30,total_active,Patrol,ship_type,16,0,PATROL,,16
+1972,1972-06-30,total_active,Submarines (attack/general),ship_type,94,0,SUBMARINES,,94
+1972,1972-06-30,total_active,Surface warships (subtotal),subtotal,225,0,SURFACE WARSHIPS,,225
+1972,1972-06-30,total_active,Total active,total,654,0,TOTAL ACTIVE,,654
+1973,1973-06-30,total_active,Aircraft carriers,ship_type,16,0,CARRIERS,,16
+1973,1973-06-30,total_active,Amphibious,ship_type,65,0,AMPHIBIOUS,,65
+1973,1973-06-30,total_active,Auxiliary & support,ship_type,148,0,AUXILIARY,,148
+1973,1973-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1973,1973-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1973,1973-06-30,total_active,Cruisers,ship_type,29,0,CRUISERS,,29
+1973,1973-06-30,total_active,Destroyers,ship_type,139,0,DESTROYERS,,139
+1973,1973-06-30,total_active,Frigates,ship_type,71,0,FRIGATES,,71
+1973,1973-06-30,total_active,Mine warfare,ship_type,34,0,MINE WARFARE,,34
+1973,1973-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSBNS,,41
+1973,1973-06-30,total_active,Patrol,ship_type,14,0,PATROL,,14
+1973,1973-06-30,total_active,Submarines (attack/general),ship_type,84,0,SUBMARINES,,84
+1973,1973-06-30,total_active,Surface warships (subtotal),subtotal,239,0,SURFACE WARSHIPS,,239
+1973,1973-06-30,total_active,Total active,total,641,0,TOTAL ACTIVE,,641
+1974,1974-06-30,total_active,Aircraft carriers,ship_type,14,0,CARRIERS,,14
+1974,1974-06-30,total_active,Amphibious,ship_type,65,0,AMPHIBIOUS,,65
+1974,1974-06-30,total_active,Auxiliary & support,ship_type,135,0,AUXILIARY,,135
+1974,1974-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1974,1974-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1974,1974-06-30,total_active,Cruisers,ship_type,28,0,CRUISERS,,28
+1974,1974-06-30,total_active,Destroyers,ship_type,119,0,DESTROYERS,,119
+1974,1974-06-30,total_active,Frigates,ship_type,64,0,FRIGATES,,64
+1974,1974-06-30,total_active,Mine warfare,ship_type,34,0,MINE WARFARE,,34
+1974,1974-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSBNS,,41
+1974,1974-06-30,total_active,Patrol,ship_type,14,0,PATROL,,14
+1974,1974-06-30,total_active,Submarines (attack/general),ship_type,73,0,SUBMARINES,,73
+1974,1974-06-30,total_active,Surface warships (subtotal),subtotal,211,0,SURFACE WARSHIPS,,211
+1974,1974-06-30,total_active,Total active,total,587,0,TOTAL ACTIVE,,587
+1975,1975-06-30,total_active,Aircraft carriers,ship_type,15,0,CARRIERS,,15
+1975,1975-06-30,total_active,Amphibious,ship_type,64,0,AMPHIBIOUS,,64
+1975,1975-06-30,total_active,Auxiliary & support,ship_type,123,0,AUXILIARY,,123
+1975,1975-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1975,1975-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1975,1975-06-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+1975,1975-06-30,total_active,Destroyers,ship_type,102,0,DESTROYERS,,102
+1975,1975-06-30,total_active,Frigates,ship_type,64,0,FRIGATES,,64
+1975,1975-06-30,total_active,Mine warfare,ship_type,34,0,MINE WARFARE,,34
+1975,1975-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSBNS,,41
+1975,1975-06-30,total_active,Patrol,ship_type,14,0,PATROL,,14
+1975,1975-06-30,total_active,Submarines (attack/general),ship_type,75,0,SUBMARINES,,75
+1975,1975-06-30,total_active,Surface warships (subtotal),subtotal,193,0,SURFACE WARSHIPS,,193
+1975,1975-06-30,total_active,Total active,total,559,0,TOTAL ACTIVE,,559
+1976,1976-06-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1976,1976-06-30,total_active,Amphibious,ship_type,65,0,AMPHIBIOUS,,65
+1976,1976-06-30,total_active,Auxiliary & support,ship_type,116,0,AUXILIARY,,116
+1976,1976-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1976,1976-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1976,1976-06-30,total_active,Cruisers,ship_type,26,0,CRUISERS,,26
+1976,1976-06-30,total_active,Destroyers,ship_type,99,0,DESTROYERS,,99
+1976,1976-06-30,total_active,Frigates,ship_type,64,0,FRIGATES,,64
+1976,1976-06-30,total_active,Mine warfare,ship_type,25,0,MINE WARFARE,,25
+1976,1976-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSBNS,,41
+1976,1976-06-30,total_active,Patrol,ship_type,13,0,PATROL,,13
+1976,1976-06-30,total_active,Submarines (attack/general),ship_type,74,0,SUBMARINES,,74
+1976,1976-06-30,total_active,Surface warships (subtotal),subtotal,189,0,SURFACE WARSHIPS,,189
+1976,1976-06-30,total_active,Total active,total,536,0,TOTAL ACTIVE,,536
+1977,1977-06-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1977,1977-06-30,total_active,Amphibious,ship_type,65,0,AMPHIBIOUS,,65
+1977,1977-06-30,total_active,Auxiliary & support,ship_type,114,0,AUXILIARY,,114
+1977,1977-06-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1977,1977-06-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1977,1977-06-30,total_active,Cruisers,ship_type,26,0,CRUISERS,,26
+1977,1977-06-30,total_active,Destroyers,ship_type,92,0,DESTROYERS,,92
+1977,1977-06-30,total_active,Frigates,ship_type,64,0,FRIGATES,,64
+1977,1977-06-30,total_active,Mine warfare,ship_type,25,0,MINE WARFARE,,25
+1977,1977-06-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSBNS,,41
+1977,1977-06-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1977,1977-06-30,total_active,Submarines (attack/general),ship_type,77,0,SUBMARINES,,77
+1977,1977-06-30,total_active,Surface warships (subtotal),subtotal,182,0,SURFACE WARSHIPS,*,182*
+1977,1977-06-30,total_active,Total active,total,523,0,TOTAL ACTIVE,,523
+1978,1978-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1978,1978-09-30,total_active,Amphibious,ship_type,67,0,AMPHIBIOUS,,67
+1978,1978-09-30,total_active,Auxiliary & support,ship_type,113,0,AUXILIARY,,113
+1978,1978-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1978,1978-09-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1978,1978-09-30,total_active,Cruisers,ship_type,28,0,CRUISERS,,28
+1978,1978-09-30,total_active,Destroyers,ship_type,95,0,DESTROYERS,,95
+1978,1978-09-30,total_active,Frigates,ship_type,65,0,FRIGATES,,65
+1978,1978-09-30,total_active,Mine warfare,ship_type,25,0,MINE WARFARE,,25
+1978,1978-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSBNS,,41
+1978,1978-09-30,total_active,Patrol,ship_type,3,0,PATROL,,3
+1978,1978-09-30,total_active,Submarines (attack/general),ship_type,81,0,SUBMARINES,,81
+1978,1978-09-30,total_active,Surface warships (subtotal),subtotal,188,0,SURFACE WARSHIPS,,188
+1978,1978-09-30,total_active,Total active,total,531,0,TOTAL ACTIVE,,531
+1979,1979-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1979,1979-09-30,total_active,Amphibious,ship_type,67,0,AMPHIBIOUS,,67
+1979,1979-09-30,total_active,Auxiliary & support,ship_type,114,0,AUXILIARY,,114
+1979,1979-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1979,1979-09-30,total_active,Command ships,ship_type,0,0,COMMAND SHIPS,,-
+1979,1979-09-30,total_active,Cruisers,ship_type,28,0,CRUISERS,,28
+1979,1979-09-30,total_active,Destroyers,ship_type,97,0,DESTROYERS,,97
+1979,1979-09-30,total_active,Frigates,ship_type,65,0,FRIGATES,,65
+1979,1979-09-30,total_active,Mine warfare,ship_type,25,0,MINE WARFARE,,25
+1979,1979-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,41,0,SSBNS,,41
+1979,1979-09-30,total_active,Patrol,ship_type,3,0,PATROL,,3
+1979,1979-09-30,total_active,Submarines (attack/general),ship_type,80,0,SUBMARINES,,80
+1979,1979-09-30,total_active,Surface warships (subtotal),subtotal,190,0,SURFACE WARSHIPS,,190
+1979,1979-09-30,total_active,Total active,total,533,0,TOTAL ACTIVE,,533
+1980,1980-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1980,1980-09-30,total_active,Amphibious,ship_type,63,0,AMPHIBIOUS,,63
+1980,1980-09-30,total_active,Auxiliary & support,ship_type,110,0,AUXILIARY,,110
+1980,1980-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1980,1980-09-30,total_active,Command ships,ship_type,3,0,COMMAND SHIPS,,3
+1980,1980-09-30,total_active,Cruisers,ship_type,26,0,CRUISERS,,26
+1980,1980-09-30,total_active,Destroyers,ship_type,94,0,DESTROYERS,,94
+1980,1980-09-30,total_active,Frigates,ship_type,71,0,FRIGATES,,71
+1980,1980-09-30,total_active,Mine warfare,ship_type,25,0,MINE WARFARE,,25
+1980,1980-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,40,0,SSBNS,,40
+1980,1980-09-30,total_active,Patrol,ship_type,3,0,PATROL,,3
+1980,1980-09-30,total_active,Submarines (attack/general),ship_type,82,0,SUBMARINES,,82
+1980,1980-09-30,total_active,Surface warships (subtotal),subtotal,191,0,SURFACE WARSHIPS,,191
+1980,1980-09-30,total_active,Total active,total,530,0,TOTAL ACTIVE,,530
+1981,1981-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+1981,1981-09-30,total_active,Amphibious,ship_type,61,0,AMPHIBIOUS,,61
+1981,1981-09-30,total_active,Auxiliary & support,ship_type,101,0,AUXILIARY,,101
+1981,1981-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1981,1981-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1981,1981-09-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+1981,1981-09-30,total_active,Destroyers,ship_type,91,0,DESTROYERS,,91
+1981,1981-09-30,total_active,Frigates,ship_type,78,0,FRIGATES,,78
+1981,1981-09-30,total_active,Mine warfare,ship_type,25,0,MINE WARFARE,,25
+1981,1981-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,34,0,SSBNS,,34
+1981,1981-09-30,total_active,Patrol,ship_type,1,0,PATROL,,1
+1981,1981-09-30,total_active,Submarines (attack/general),ship_type,87,0,SUBMARINES,,87
+1981,1981-09-30,total_active,Surface warships (subtotal),subtotal,196,0,SURFACE WARSHIPS,,196
+1981,1981-09-30,total_active,Total active,total,521,0,TOTAL ACTIVE,*,521*
+1982,1982-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1982,1982-09-30,total_active,Amphibious,ship_type,61,0,AMPHIBIOUS,,61
+1982,1982-09-30,total_active,Auxiliary & support,ship_type,117,0,AUXILIARY,,117
+1982,1982-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1982,1982-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1982,1982-09-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+1982,1982-09-30,total_active,Destroyers,ship_type,89,0,DESTROYERS,,89
+1982,1982-09-30,total_active,Frigates,ship_type,86,0,FRIGATES,,86
+1982,1982-09-30,total_active,Mine warfare,ship_type,25,0,MINE WARFARE,,25
+1982,1982-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,33,0,SSBNS,,33
+1982,1982-09-30,total_active,Patrol,ship_type,4,0,PATROL,,4
+1982,1982-09-30,total_active,Submarines (attack/general),ship_type,96,0,SUBMARINES,,96
+1982,1982-09-30,total_active,Surface warships (subtotal),subtotal,202,0,SURFACE WARSHIPS,,202
+1982,1982-09-30,total_active,Total active,total,555,0,TOTAL ACTIVE,,555
+1983,1983-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1983,1983-09-30,total_active,Amphibious,ship_type,59,0,AMPHIBIOUS,,59
+1983,1983-09-30,total_active,Auxiliary & support,ship_type,103,0,AUXILIARY,,103
+1983,1983-09-30,total_active,Battleships,ship_type,1,0,BATTLESHIPS,,1
+1983,1983-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1983,1983-09-30,total_active,Cruisers,ship_type,28,0,CRUISERS,,28
+1983,1983-09-30,total_active,Destroyers,ship_type,71,0,DESTROYERS,,71
+1983,1983-09-30,total_active,Frigates,ship_type,95,0,FRIGATES,,95
+1983,1983-09-30,total_active,Mine warfare,ship_type,21,0,MINE WARFARE,,21
+1983,1983-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,34,0,SSBNS,,34
+1983,1983-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1983,1983-09-30,total_active,Submarines (attack/general),ship_type,98,0,SUBMARINES,,98
+1983,1983-09-30,total_active,Surface warships (subtotal),subtotal,195,0,SURFACE WARSHIPS,,195
+1983,1983-09-30,total_active,Total active,total,533,0,TOTAL ACTIVE,,533
+1984,1984-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1984,1984-09-30,total_active,Amphibious,ship_type,57,0,AMPHIBIOUS,,57
+1984,1984-09-30,total_active,Auxiliary & support,ship_type,120,0,AUXILIARY,,120
+1984,1984-09-30,total_active,Battleships,ship_type,2,0,BATTLESHIPS,,2
+1984,1984-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1984,1984-09-30,total_active,Cruisers,ship_type,29,0,CRUISERS,,29
+1984,1984-09-30,total_active,Destroyers,ship_type,69,0,DESTROYERS,,69
+1984,1984-09-30,total_active,Frigates,ship_type,103,0,FRIGATES,,103
+1984,1984-09-30,total_active,Mine warfare,ship_type,21,0,MINE WARFARE,,21
+1984,1984-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,35,0,SSBNS,,35
+1984,1984-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1984,1984-09-30,total_active,Submarines (attack/general),ship_type,98,0,SUBMARINES,,98
+1984,1984-09-30,total_active,Surface warships (subtotal),subtotal,203,0,SURFACE WARSHIPS,,203
+1984,1984-09-30,total_active,Total active,total,557,0,TOTAL ACTIVE,,557
+1985,1985-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1985,1985-09-30,total_active,Amphibious,ship_type,58,0,AMPHIBIOUS,,58
+1985,1985-09-30,total_active,Auxiliary & support,ship_type,121,0,AUXILIARY,,121
+1985,1985-09-30,total_active,Battleships,ship_type,2,0,BATTLESHIPS,,2
+1985,1985-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1985,1985-09-30,total_active,Cruisers,ship_type,30,0,CRUISERS,,30
+1985,1985-09-30,total_active,Destroyers,ship_type,69,0,DESTROYERS,,69
+1985,1985-09-30,total_active,Frigates,ship_type,110,0,FRIGATES,,110
+1985,1985-09-30,total_active,Mine warfare,ship_type,21,0,MINE WARFARE,,21
+1985,1985-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,37,0,SSBNS,,37
+1985,1985-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1985,1985-09-30,total_active,Submarines (attack/general),ship_type,100,0,SUBMARINES,,100
+1985,1985-09-30,total_active,Surface warships (subtotal),subtotal,211,0,SURFACE WARSHIPS,,211
+1985,1985-09-30,total_active,Total active,total,571,0,TOTAL ACTIVE,,571
+1986,1986-09-30,total_active,Aircraft carriers,ship_type,14,0,CARRIERS,,14
+1986,1986-09-30,total_active,Amphibious,ship_type,58,0,AMPHIBIOUS,,58
+1986,1986-09-30,total_active,Auxiliary & support,ship_type,123,0,AUXILIARY,,123
+1986,1986-09-30,total_active,Battleships,ship_type,3,0,BATTLESHIPS,,3
+1986,1986-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1986,1986-09-30,total_active,Cruisers,ship_type,32,0,CRUISERS,,32
+1986,1986-09-30,total_active,Destroyers,ship_type,69,0,DESTROYERS,,69
+1986,1986-09-30,total_active,Frigates,ship_type,113,0,FRIGATES,,113
+1986,1986-09-30,total_active,Mine warfare,ship_type,21,0,MINE WARFARE,,21
+1986,1986-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,39,0,SSBNS,,39
+1986,1986-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1986,1986-09-30,total_active,Submarines (attack/general),ship_type,101,0,SUBMARINES,,101
+1986,1986-09-30,total_active,Surface warships (subtotal),subtotal,217,0,SURFACE WARSHIPS,,217
+1986,1986-09-30,total_active,Total active,total,583,0,TOTAL ACTIVE,,583
+1987,1987-09-30,total_active,Aircraft carriers,ship_type,14,0,CARRIERS,,14
+1987,1987-09-30,total_active,Amphibious,ship_type,59,0,AMPHIBIOUS,,59
+1987,1987-09-30,total_active,Auxiliary & support,ship_type,127,0,AUXILIARY,,127
+1987,1987-09-30,total_active,Battleships,ship_type,3,0,BATTLESHIPS,,3
+1987,1987-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1987,1987-09-30,total_active,Cruisers,ship_type,36,0,CRUISERS,,36
+1987,1987-09-30,total_active,Destroyers,ship_type,69,0,DESTROYERS,,69
+1987,1987-09-30,total_active,Frigates,ship_type,115,0,FRIGATES,,115
+1987,1987-09-30,total_active,Mine warfare,ship_type,22,0,MINE WARFARE,,22
+1987,1987-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,37,0,SSBNS,,37
+1987,1987-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1987,1987-09-30,total_active,Submarines (attack/general),ship_type,102,0,SUBMARINES,,102
+1987,1987-09-30,total_active,Surface warships (subtotal),subtotal,223,0,SURFACE WARSHIPS,^,223^
+1987,1987-09-30,total_active,Total active,total,594,0,TOTAL ACTIVE,*,594*
+1988,1988-09-30,total_active,Aircraft carriers,ship_type,14,0,CARRIERS,,14
+1988,1988-09-30,total_active,Amphibious,ship_type,59,0,AMPHIBIOUS,,59
+1988,1988-09-30,total_active,Auxiliary & support,ship_type,114,0,AUXILIARY,,114
+1988,1988-09-30,total_active,Battleships,ship_type,3,0,BATTLESHIPS,,3
+1988,1988-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1988,1988-09-30,total_active,Cruisers,ship_type,38,0,CRUISERS,,38
+1988,1988-09-30,total_active,Destroyers,ship_type,69,0,DESTROYERS,,69
+1988,1988-09-30,total_active,Frigates,ship_type,107,0,FRIGATES,,107
+1988,1988-09-30,total_active,Mine warfare,ship_type,22,0,MINE WARFARE,,22
+1988,1988-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,37,0,SSBNS,,37
+1988,1988-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1988,1988-09-30,total_active,Submarines (attack/general),ship_type,100,0,SUBMARINES,,100
+1988,1988-09-30,total_active,Surface warships (subtotal),subtotal,217,0,SURFACE WARSHIPS,,217
+1988,1988-09-30,total_active,Total active,total,573,0,TOTAL ACTIVE,,573
+1989,1989-09-30,total_active,Aircraft carriers,ship_type,14,0,CARRIERS,,14
+1989,1989-09-30,total_active,Amphibious,ship_type,61,0,AMPHIBIOUS,,61
+1989,1989-09-30,total_active,Auxiliary & support,ship_type,137,0,AUXILIARY,,137
+1989,1989-09-30,total_active,Battleships,ship_type,4,0,BATTLESHIPS,,4
+1989,1989-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1989,1989-09-30,total_active,Cruisers,ship_type,40,0,CRUISERS,,40
+1989,1989-09-30,total_active,Destroyers,ship_type,68,0,DESTROYERS,,68
+1989,1989-09-30,total_active,Frigates,ship_type,100,0,FRIGATES,,100
+1989,1989-09-30,total_active,Mine warfare,ship_type,23,0,MINE WARFARE,,23
+1989,1989-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,36,0,SSBNS,,36
+1989,1989-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1989,1989-09-30,total_active,Submarines (attack/general),ship_type,99,0,SUBMARINES,,99
+1989,1989-09-30,total_active,Surface warships (subtotal),subtotal,212,0,SURFACE WARSHIPS,,212
+1989,1989-09-30,total_active,Total active,total,592,0,TOTAL ACTIVE,,592
+1990,1990-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1990,1990-09-30,total_active,Amphibious,ship_type,59,0,AMPHIBIOUS,,59
+1990,1990-09-30,total_active,Auxiliary & support,ship_type,137,0,AUXILIARY,,137
+1990,1990-09-30,total_active,Battleships,ship_type,4,0,BATTLESHIPS,,4
+1990,1990-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1990,1990-09-30,total_active,Cruisers,ship_type,43,0,CRUISERS,,43
+1990,1990-09-30,total_active,Destroyers,ship_type,57,0,DESTROYERS,,57
+1990,1990-09-30,total_active,Frigates,ship_type,99,0,FRIGATES,,99
+1990,1990-09-30,total_active,Mine warfare,ship_type,22,0,MINE WARFARE,,22
+1990,1990-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,33,0,SSBNS,,33
+1990,1990-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1990,1990-09-30,total_active,Submarines (attack/general),ship_type,93,0,SUBMARINES,,93
+1990,1990-09-30,total_active,Surface warships (subtotal),subtotal,203,0,SURFACE WARSHIPS,,203
+1990,1990-09-30,total_active,Total active,total,570,0,TOTAL ACTIVE,,570
+1991,1991-09-30,total_active,Aircraft carriers,ship_type,15,0,CARRIERS,,15
+1991,1991-09-30,total_active,Amphibious,ship_type,61,0,AMPHIBIOUS,,61
+1991,1991-09-30,total_active,Auxiliary & support,ship_type,112,0,AUXILIARY,,112
+1991,1991-09-30,total_active,Battleships,ship_type,1,0,BATTLESHIPS,,1
+1991,1991-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1991,1991-09-30,total_active,Cruisers,ship_type,47,0,CRUISERS,,47
+1991,1991-09-30,total_active,Destroyers,ship_type,47,0,DESTROYERS,,47
+1991,1991-09-30,total_active,Frigates,ship_type,93,0,FRIGATES,,93
+1991,1991-09-30,total_active,Mine warfare,ship_type,22,0,MINE WARFARE,,22
+1991,1991-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,34,0,SSBNS,,34
+1991,1991-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1991,1991-09-30,total_active,Submarines (attack/general),ship_type,87,0,SUBMARINES,,87
+1991,1991-09-30,total_active,Surface warships (subtotal),subtotal,188,0,SURFACE WARSHIPS,,188
+1991,1991-09-30,total_active,Total active,total,529,0,TOTAL ACTIVE,,529
+1992,1992-09-30,total_active,Aircraft carriers,ship_type,14,0,CARRIERS,,14
+1992,1992-09-30,total_active,Amphibious,ship_type,58,0,AMPHIBIOUS,,58
+1992,1992-09-30,total_active,Auxiliary & support,ship_type,102,0,AUXILIARY,,102
+1992,1992-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1992,1992-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1992,1992-09-30,total_active,Cruisers,ship_type,49,0,CRUISERS,,49
+1992,1992-09-30,total_active,Destroyers,ship_type,40,0,DESTROYERS,,40
+1992,1992-09-30,total_active,Frigates,ship_type,67,0,FRIGATES,,67
+1992,1992-09-30,total_active,Mine warfare,ship_type,16,0,MINE WARFARE,,16
+1992,1992-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,30,0,SSBNS,,30
+1992,1992-09-30,total_active,Patrol,ship_type,6,0,PATROL,,6
+1992,1992-09-30,total_active,Submarines (attack/general),ship_type,85,0,SUBMARINES,,85
+1992,1992-09-30,total_active,Surface warships (subtotal),subtotal,156,0,SURFACE WARSHIPS,,156
+1992,1992-09-30,total_active,Total active,total,471,0,TOTAL ACTIVE,,471
+1993,1993-09-30,total_active,Aircraft carriers,ship_type,13,0,CARRIERS,,13
+1993,1993-09-30,total_active,Amphibious,ship_type,52,0,AMPHIBIOUS,,52
+1993,1993-09-30,total_active,Auxiliary & support,ship_type,110,0,AUXILIARY,,110
+1993,1993-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1993,1993-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1993,1993-09-30,total_active,Cruisers,ship_type,52,0,CRUISERS,,52
+1993,1993-09-30,total_active,Destroyers,ship_type,37,0,DESTROYERS,,37
+1993,1993-09-30,total_active,Frigates,ship_type,59,0,FRIGATES,,59
+1993,1993-09-30,total_active,Mine warfare,ship_type,15,0,MINE WARFARE,,15
+1993,1993-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,22,0,SSBNS,,22
+1993,1993-09-30,total_active,Patrol,ship_type,2,0,PATROL,,2
+1993,1993-09-30,total_active,Submarines (attack/general),ship_type,88,0,SUBMARINES,,88
+1993,1993-09-30,total_active,Surface warships (subtotal),subtotal,148,0,SURFACE WARSHIPS,,148
+1993,1993-09-30,total_active,Total active,total,454,0,TOTAL ACTIVE,,454
+1994,1994-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+1994,1994-09-30,total_active,Amphibious,ship_type,38,0,AMPHIBIOUS,,38
+1994,1994-09-30,total_active,Auxiliary & support,ship_type,94,0,AUXILIARY,,94
+1994,1994-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1994,1994-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1994,1994-09-30,total_active,Cruisers,ship_type,35,0,CRUISERS,,35
+1994,1994-09-30,total_active,Destroyers,ship_type,41,0,DESTROYERS,,41
+1994,1994-09-30,total_active,Frigates,ship_type,51,0,FRIGATES,,51
+1994,1994-09-30,total_active,Mine warfare,ship_type,16,0,MINE WARFARE,,16
+1994,1994-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBNS,,18
+1994,1994-09-30,total_active,Patrol,ship_type,7,0,PATROL,,7
+1994,1994-09-30,total_active,Submarines (attack/general),ship_type,88,0,SUBMARINES,,88
+1994,1994-09-30,total_active,Surface warships (subtotal),subtotal,127,0,SURFACE WARSHIPS,,127
+1994,1994-09-30,total_active,Total active,total,404,0,TOTAL ACTIVE,,404
+1995,1995-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+1995,1995-09-30,total_active,Amphibious,ship_type,39,0,AMPHIBIOUS,,39
+1995,1995-09-30,total_active,Auxiliary & support,ship_type,80,0,AUXILIARY,,80
+1995,1995-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1995,1995-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1995,1995-09-30,total_active,Cruisers,ship_type,32,0,CRUISERS,,32
+1995,1995-09-30,total_active,Destroyers,ship_type,47,0,DESTROYERS,,47
+1995,1995-09-30,total_active,Frigates,ship_type,49,0,FRIGATES,,49
+1995,1995-09-30,total_active,Mine warfare,ship_type,18,0,MINE WARFARE,,18
+1995,1995-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,16,0,SSBNS,,16
+1995,1995-09-30,total_active,Patrol,ship_type,12,0,PATROL,,12
+1995,1995-09-30,total_active,Submarines (attack/general),ship_type,83,0,SUBMARINES,,83
+1995,1995-09-30,total_active,Surface warships (subtotal),subtotal,128,0,SURFACE WARSHIPS,,128
+1995,1995-09-30,total_active,Total active,total,392,0,TOTAL ACTIVE,,392
+1996,1996-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+1996,1996-09-30,total_active,Amphibious,ship_type,40,0,AMPHIBIOUS,,40
+1996,1996-09-30,total_active,Auxiliary & support,ship_type,67,0,AUXILIARY,,67
+1996,1996-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1996,1996-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1996,1996-09-30,total_active,Cruisers,ship_type,31,0,CRUISERS,,31
+1996,1996-09-30,total_active,Destroyers,ship_type,51,0,DESTROYERS,,51
+1996,1996-09-30,total_active,Frigates,ship_type,43,0,FRIGATES,,43
+1996,1996-09-30,total_active,Mine warfare,ship_type,18,0,MINE WARFARE,,18
+1996,1996-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,17,0,SSBNS,,17
+1996,1996-09-30,total_active,Patrol,ship_type,13,0,PATROL,,13
+1996,1996-09-30,total_active,Submarines (attack/general),ship_type,79,0,SUBMARINES,,79
+1996,1996-09-30,total_active,Surface warships (subtotal),subtotal,123,0,SURFACE WARSHIPS,,123
+1996,1996-09-30,total_active,Total active,total,375,0,TOTAL ACTIVE,,375
+1997,1997-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+1997,1997-09-30,total_active,Amphibious,ship_type,41,0,AMPHIBIOUS,,41
+1997,1997-09-30,total_active,Auxiliary & support,ship_type,52,0,AUXILIARY,,52
+1997,1997-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1997,1997-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1997,1997-09-30,total_active,Cruisers,ship_type,30,0,CRUISERS,,30
+1997,1997-09-30,total_active,Destroyers,ship_type,56,0,DESTROYERS,,56
+1997,1997-09-30,total_active,Frigates,ship_type,42,0,FRIGATES,,42
+1997,1997-09-30,total_active,Mine warfare,ship_type,18,0,MINE WARFARE,,18
+1997,1997-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBNS,,18
+1997,1997-09-30,total_active,Patrol,ship_type,13,0,PATROL,,13
+1997,1997-09-30,total_active,Submarines (attack/general),ship_type,73,0,SUBMARINES,,73
+1997,1997-09-30,total_active,Surface warships (subtotal),subtotal,122,0,SURFACE WARSHIPS,,122
+1997,1997-09-30,total_active,Total active,total,359,0,TOTAL ACTIVE,,359
+1998,1998-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+1998,1998-09-30,total_active,Amphibious,ship_type,40,0,AMPHIBIOUS,,40
+1998,1998-09-30,total_active,Auxiliary & support,ship_type,57,0,AUXILIARY,,57
+1998,1998-09-30,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1998,1998-09-30,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1998,1998-09-30,total_active,Cruisers,ship_type,29,0,CRUISERS,,29
+1998,1998-09-30,total_active,Destroyers,ship_type,50,0,DESTROYERS,,50
+1998,1998-09-30,total_active,Frigates,ship_type,38,0,FRIGATES,,38
+1998,1998-09-30,total_active,Mine warfare,ship_type,18,0,MINE WARFARE,,18
+1998,1998-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBNS,,18
+1998,1998-09-30,total_active,Patrol,ship_type,13,0,PATROL,,13
+1998,1998-09-30,total_active,Submarines (attack/general),ship_type,65,0,SUBMARINES,,65
+1998,1998-09-30,total_active,Surface warships (subtotal),subtotal,109,0,SURFACE WARSHIPS,,109
+1998,1998-09-30,total_active,Total active,total,344,0,TOTAL ACTIVE,,344
+1999,1999-08-17,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+1999,1999-08-17,total_active,Amphibious,ship_type,41,0,AMPHIBIOUS,,41
+1999,1999-08-17,total_active,Auxiliary & support,ship_type,57,0,AUXILIARY,,57
+1999,1999-08-17,total_active,Battleships,ship_type,0,0,BATTLESHIPS,,-
+1999,1999-08-17,total_active,Command ships,ship_type,4,0,COMMAND SHIPS,,4
+1999,1999-08-17,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+1999,1999-08-17,total_active,Destroyers,ship_type,52,0,DESTROYERS,,52
+1999,1999-08-17,total_active,Frigates,ship_type,37,0,FRIGATES,,37
+1999,1999-08-17,total_active,Mine warfare,ship_type,18,0,MINE WARFARE,,18
+1999,1999-08-17,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBNS,,18
+1999,1999-08-17,total_active,Patrol,ship_type,13,0,PATROL,,13
+1999,1999-08-17,total_active,Submarines (attack/general),ship_type,57,0,SUBMARINES,,57
+1999,1999-08-17,total_active,Surface warships (subtotal),subtotal,106,0,SURFACE WARSHIPS,,106
+1999,1999-08-17,total_active,Total active,total,336,0,TOTAL ACTIVE,,336
+2000,2000-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+2000,2000-09-30,total_active,Amphibious,ship_type,41,0,AMPHIBIOUS,,41
+2000,2000-09-30,total_active,Auxiliary & support,ship_type,57,0,AUXILIARY,,57
+2000,2000-09-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+2000,2000-09-30,total_active,Destroyers,ship_type,54,0,DESTROYERS,,54
+2000,2000-09-30,total_active,Frigates,ship_type,35,0,FRIGATES,,35
+2000,2000-09-30,total_active,Mine warfare,ship_type,18,0,MINE WARFARE,,18
+2000,2000-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,18 | 0
+2000,2000-09-30,total_active,Submarines (attack/general),ship_type,56,0,SUBMARINES,,56
+2000,2000-09-30,total_active,Surface warships (subtotal),subtotal,128,0,SURFACE WARSHIPS,,128
+2000,2000-09-30,total_active,Total active,total,318,0,TOTAL ACTIVE,,318
+2001,2001-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+2001,2001-09-30,total_active,Amphibious,ship_type,41,0,AMPHIBIOUS,,41
+2001,2001-09-30,total_active,Auxiliary & support,ship_type,57,0,AUXILIARY,,57
+2001,2001-09-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+2001,2001-09-30,total_active,Destroyers,ship_type,53,0,DESTROYERS,,53
+2001,2001-09-30,total_active,Frigates,ship_type,35,0,FRIGATES,,35
+2001,2001-09-30,total_active,Mine warfare,ship_type,18,0,MINE WARFARE,,18
+2001,2001-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,18 | 0
+2001,2001-09-30,total_active,Submarines (attack/general),ship_type,55,0,SUBMARINES,,55
+2001,2001-09-30,total_active,Surface warships (subtotal),subtotal,127,0,SURFACE WARSHIPS,,127
+2001,2001-09-30,total_active,Total active,total,316,0,TOTAL ACTIVE,,316
+2002,2002-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+2002,2002-09-30,total_active,Amphibious,ship_type,41,0,AMPHIBIOUS,,41
+2002,2002-09-30,total_active,Auxiliary & support,ship_type,56,0,AUXILIARY,,56
+2002,2002-09-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+2002,2002-09-30,total_active,Destroyers,ship_type,55,0,DESTROYERS,,55
+2002,2002-09-30,total_active,Frigates,ship_type,33,0,FRIGATES,,33
+2002,2002-09-30,total_active,Mine warfare,ship_type,17,0,MINE WARFARE,,17
+2002,2002-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,18 | 0
+2002,2002-09-30,total_active,Submarines (attack/general),ship_type,54,0,SUBMARINES,,54
+2002,2002-09-30,total_active,Surface warships (subtotal),subtotal,127,0,SURFACE WARSHIPS,,127
+2002,2002-09-30,total_active,Total active,total,313,0,TOTAL ACTIVE,,313
+2003,2003-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+2003,2003-09-30,total_active,Amphibious,ship_type,38,0,AMPHIBIOUS,,38
+2003,2003-09-30,total_active,Auxiliary & support,ship_type,52,0,AUXILIARY,,52
+2003,2003-09-30,total_active,Cruisers,ship_type,27,0,CRUISERS,,27
+2003,2003-09-30,total_active,Destroyers,ship_type,49,0,DESTROYERS,,49
+2003,2003-09-30,total_active,Frigates,ship_type,30,0,FRIGATES,,30
+2003,2003-09-30,total_active,Mine warfare,ship_type,17,0,MINE WARFARE,,17
+2003,2003-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,16 | 2
+2003,2003-09-30,total_active,Submarines (attack/general),ship_type,54,0,SUBMARINES,,54
+2003,2003-09-30,total_active,Surface warships (subtotal),subtotal,118,0,SURFACE WARSHIPS,,118
+2003,2003-09-30,total_active,Total active,total,297,0,TOTAL ACTIVE,,297
+2004,2004-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+2004,2004-09-30,total_active,Amphibious,ship_type,37,0,AMPHIBIOUS,,37
+2004,2004-09-30,total_active,Auxiliary & support,ship_type,51,0,AUXILIARY,,51
+2004,2004-09-30,total_active,Cruisers,ship_type,25,0,CRUISERS,,25
+2004,2004-09-30,total_active,Destroyers,ship_type,48,0,DESTROYERS,,48
+2004,2004-09-30,total_active,Frigates,ship_type,30,0,FRIGATES,,30
+2004,2004-09-30,total_active,Mine warfare,ship_type,17,0,MINE WARFARE,,17
+2004,2004-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,14 | 4
+2004,2004-09-30,total_active,Submarines (attack/general),ship_type,54,0,SUBMARINES,,54
+2004,2004-09-30,total_active,Surface warships (subtotal),subtotal,115,0,SURFACE WARSHIPS,,115
+2004,2004-09-30,total_active,Total active,total,292,0,TOTAL ACTIVE,,292
+2005,2005-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+2005,2005-09-30,total_active,Amphibious,ship_type,37,0,AMPHIBIOUS,,37
+2005,2005-09-30,total_active,Auxiliary & support,ship_type,45,0,AUXILIARY,,45
+2005,2005-09-30,total_active,Cruisers,ship_type,23,0,CRUISERS,,23
+2005,2005-09-30,total_active,Destroyers,ship_type,46,0,DESTROYERS,,46
+2005,2005-09-30,total_active,Frigates,ship_type,30,0,FRIGATES,,30
+2005,2005-09-30,total_active,Mine warfare,ship_type,17,0,MINE WARFARE,,17
+2005,2005-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,14 | 4
+2005,2005-09-30,total_active,Submarines (attack/general),ship_type,54,0,SUBMARINES,,54
+2005,2005-09-30,total_active,Surface warships (subtotal),subtotal,111,0,SURFACE WARSHIPS,*,111*
+2005,2005-09-30,total_active,Total active,total,282,0,TOTAL ACTIVE,,282
+2006,2006-09-30,total_active,Aircraft carriers,ship_type,12,0,CARRIERS,,12
+2006,2006-09-30,total_active,Amphibious,ship_type,35,0,AMPHIBIOUS,,35
+2006,2006-09-30,total_active,Auxiliary & support,ship_type,44,0,AUXILIARY,,44
+2006,2006-09-30,total_active,Cruisers,ship_type,22,0,CRUISERS,,22
+2006,2006-09-30,total_active,Destroyers,ship_type,50,0,DESTROYERS,,50
+2006,2006-09-30,total_active,Frigates,ship_type,30,0,FRIGATES,,30
+2006,2006-09-30,total_active,Mine warfare,ship_type,16,0,MINE WARFARE,,16
+2006,2006-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,14 | 4
+2006,2006-09-30,total_active,Submarines (attack/general),ship_type,54,0,SUBMARINES,,54
+2006,2006-09-30,total_active,Surface warships (subtotal),subtotal,114,0,SURFACE WARSHIPS,,114
+2006,2006-09-30,total_active,Total active,total,281,0,TOTAL ACTIVE,,281
+2007,2007-09-30,total_active,Aircraft carriers,ship_type,11,0,CARRIERS,,11.0
+2007,2007-09-30,total_active,Amphibious,ship_type,33,0,AMPHIBIOUS,,33.0
+2007,2007-09-30,total_active,Auxiliary & support,ship_type,46,0,AUXILIARY,,46.0
+2007,2007-09-30,total_active,Cruisers,ship_type,22,0,CRUISERS,,22.0
+2007,2007-09-30,total_active,Destroyers,ship_type,52,0,DESTROYERS,,52.0
+2007,2007-09-30,total_active,Frigates,ship_type,30,0,FRIGATES,,30.0
+2007,2007-09-30,total_active,Littoral combat ships,ship_type,0,0,LCS,,
+2007,2007-09-30,total_active,Mine warfare,ship_type,14,0,MINE WARFARE,,14.0
+2007,2007-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,14.0 | 4.0
+2007,2007-09-30,total_active,Patrol,ship_type,0,0,PATROL COASTAL,,0.0
+2007,2007-09-30,total_active,Submarines (attack/general),ship_type,53,0,SSN,,53.0
+2007,2007-09-30,total_active,Surface warships (subtotal),subtotal,115,0,SURFACE WARSHIPS,,115.0
+2007,2007-09-30,total_active,Total active,total,279,0,TOTAL ACTIVE,,279.0
+2008,2008-09-30,total_active,Aircraft carriers,ship_type,11,0,CARRIERS,,11
+2008,2008-09-30,total_active,Amphibious,ship_type,34,0,AMPHIBIOUS,,34
+2008,2008-09-30,total_active,Auxiliary & support,ship_type,45,0,AUXILIARY,,45
+2008,2008-09-30,total_active,Cruisers,ship_type,22,0,CRUISERS,,22
+2008,2008-09-30,total_active,Destroyers,ship_type,54,0,DESTROYERS,,54
+2008,2008-09-30,total_active,Frigates,ship_type,30,0,FRIGATES,,30
+2008,2008-09-30,total_active,Littoral combat ships,ship_type,1,0,LCS,,1
+2008,2008-09-30,total_active,Mine warfare,ship_type,14,0,MINE WARFARE,,14
+2008,2008-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,14 | 4
+2008,2008-09-30,total_active,Patrol,ship_type,0,0,PATROL COASTAL,,0
+2008,2008-09-30,total_active,Submarines (attack/general),ship_type,53,0,SSN,,53
+2008,2008-09-30,total_active,Surface warships (subtotal),subtotal,118,0,SURFACE WARSHIPS,,118
+2008,2008-09-30,total_active,Total active,total,282,0,TOTAL ACTIVE,,282
+2009,2009-09-30,total_active,Aircraft carriers,ship_type,11,0,CARRIERS,,11
+2009,2009-09-30,total_active,Amphibious,ship_type,33,0,AMPHIBIOUS,,33
+2009,2009-09-30,total_active,Auxiliary & support,ship_type,46,0,AUXILIARY,,46
+2009,2009-09-30,total_active,Cruisers,ship_type,22,0,CRUISERS,,22
+2009,2009-09-30,total_active,Destroyers,ship_type,57,0,DESTROYERS,,57
+2009,2009-09-30,total_active,Frigates,ship_type,30,0,FRIGATES,,30
+2009,2009-09-30,total_active,Littoral combat ships,ship_type,1,0,LCS,,1
+2009,2009-09-30,total_active,Mine warfare,ship_type,14,0,MINE WARFARE,,14
+2009,2009-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,14 | 4
+2009,2009-09-30,total_active,Patrol,ship_type,0,0,PATROL COASTAL,,0
+2009,2009-09-30,total_active,Submarines (attack/general),ship_type,53,0,SSN,,53
+2009,2009-09-30,total_active,Surface warships (subtotal),subtotal,121,0,SURFACE WARSHIPS,,121
+2009,2009-09-30,total_active,Total active,total,285,0,TOTAL ACTIVE,,285
+2010,2010-09-30,total_active,Aircraft carriers,ship_type,11,0,CARRIERS,,11
+2010,2010-09-30,total_active,Amphibious,ship_type,33,0,AMPHIBIOUS,,33
+2010,2010-09-30,total_active,Auxiliary & support,ship_type,47,0,AUXILIARY,,47
+2010,2010-09-30,total_active,Cruisers,ship_type,22,0,CRUISERS,,22
+2010,2010-09-30,total_active,Destroyers,ship_type,59,0,DESTROYERS,,59
+2010,2010-09-30,total_active,Frigates,ship_type,29,0,FRIGATES,,29
+2010,2010-09-30,total_active,Littoral combat ships,ship_type,2,0,LCS,,2
+2010,2010-09-30,total_active,Mine warfare,ship_type,14,0,MINE WARFARE,,14
+2010,2010-09-30,total_active,Missile submarines (SSBN/SSGN),ship_type,18,0,SSBN | SSGN,,14 | 4
+2010,2010-09-30,total_active,Patrol,ship_type,0,0,PATROL COASTAL,,0
+2010,2010-09-30,total_active,Submarines (attack/general),ship_type,53,0,SSN,,53
+2010,2010-09-30,total_active,Surface warships (subtotal),subtotal,123,0,SURFACE WARSHIPS,,123
+2010,2010-09-30,total_active,Total active,total,288,0,TOTAL ACTIVE,,288
+2011,2011-09-30,battle_force,Aircraft carriers,ship_type,11,0,Aircraft Carrier (CVN),,11
+2011,2011-09-30,battle_force,Amphibious,ship_type,28,0,Amphibious Assault Ship [General] (LHA) | Amphibious Transport Dock (LHD) | Amphibious Assault Ship [Multi] (LPD) | Landing Dock Ship (LSD) | *Mobile Landing Platform (MLP)  Expeditionary Transfer Dock (T-ESD),,1 | 8 | 7 | 12 | -
+2011,2011-09-30,battle_force,Auxiliary & support,ship_type,47,0,Ammunition Ship (T-AE) | Fleet Replenishment Oiler (T-AO) | Fast Combat Support Ship (T-AOE) | Dry Cargo & Ammunition Ship (T-AKE) | Submarine Tender (AS) | *Joint High Speed Vessel (JHSV)  Expeditionary Fast Transport (T-EPF) | Surveillance Ship (T-AGOS) | Salvage Ship (T-ARS) | Fleet Ocean Tug (T-ATF) | (MPS T-AKE) | Afloat Forward Staging Base (AFSB) | *Afloat Forward Staging Base/  Expeditionary Sea Base (T-ESB) | Hospital Ship (T-AH) | High Speed Transport (T-HST),,1 | 15 | 4 | 11 | 2 | - | 5 | 4 | 4 | 1 | - | - | - | -
+2011,2011-09-30,battle_force,Command ships,ship_type,2,0,Command Ship (LCC),,2
+2011,2011-09-30,battle_force,Cruisers,ship_type,22,0,Cruiser (CG),,22
+2011,2011-09-30,battle_force,Destroyers,ship_type,61,0,Destroyer (DDG) | Destroyer (DDG 1000),,61 | -
+2011,2011-09-30,battle_force,Frigates,ship_type,26,0,Frigate (FFG),,26
+2011,2011-09-30,battle_force,Littoral combat ships,ship_type,2,0,Littoral (LCS),,2
+2011,2011-09-30,battle_force,Mine warfare,ship_type,14,0,Mine Countermeasures Ship (MCM),,14
+2011,2011-09-30,battle_force,Missile submarines (SSBN/SSGN),ship_type,18,0,Ballistic Missile Submarine (SSBN) | Guided Missile Submarine (SSGN),,14 | 4
+2011,2011-09-30,battle_force,Patrol,ship_type,0,0,Patrol Coastal (PC),,-
+2011,2011-09-30,battle_force,Submarines (attack/general),ship_type,53,0,Attack Submarine (SSN),,53
+2011,2011-09-30,battle_force,Combatant other (subtotal),subtotal,63,0,Combatant (Other),,63
+2011,2011-09-30,battle_force,Combatant warships (subtotal),subtotal,221,0,Combatant (Warship),,221
+2011,2011-09-30,battle_force,Total battle force,total,284,0,TOTAL BATTLE FORCE LEVEL,,284
+2012,2012-09-30,battle_force,Aircraft carriers,ship_type,11,0,Aircraft Carrier (CVN),,11
+2012,2012-09-30,battle_force,Amphibious,ship_type,29,0,Amphibious Assault Ship [General] (LHA) | Amphibious Transport Dock (LHD) | Amphibious Assault Ship [Multi] (LPD) | Landing Dock Ship (LSD) | *Mobile Landing Platform (MLP)  Expeditionary Transfer Dock (T-ESD),,1 | 8 | 8 | 12 | -
+2012,2012-09-30,battle_force,Auxiliary & support,ship_type,49,0,Ammunition Ship (T-AE) | Fleet Replenishment Oiler (T-AO) | Fast Combat Support Ship (T-AOE) | Dry Cargo & Ammunition Ship (T-AKE) | Submarine Tender (AS) | *Joint High Speed Vessel (JHSV)  Expeditionary Fast Transport (T-EPF) | Surveillance Ship (T-AGOS) | Salvage Ship (T-ARS) | Fleet Ocean Tug (T-ATF) | (MPS T-AKE) | Afloat Forward Staging Base (AFSB) | *Afloat Forward Staging Base/  Expeditionary Sea Base (T-ESB) | Hospital Ship (T-AH) | High Speed Transport (T-HST),,1 | 15 | 4 | 11 | 2 | - | 5 | 4 | 4 | 2 | 1 | - | - | -
+2012,2012-09-30,battle_force,Command ships,ship_type,2,0,Command Ship (LCC),,2
+2012,2012-09-30,battle_force,Cruisers,ship_type,22,0,Cruiser (CG),,22
+2012,2012-09-30,battle_force,Destroyers,ship_type,62,0,Destroyer (DDG) | Destroyer (DDG 1000),,62 | -
+2012,2012-09-30,battle_force,Frigates,ship_type,23,0,Frigate (FFG),,23
+2012,2012-09-30,battle_force,Littoral combat ships,ship_type,3,0,Littoral (LCS),,3
+2012,2012-09-30,battle_force,Mine warfare,ship_type,14,0,Mine Countermeasures Ship (MCM),,14
+2012,2012-09-30,battle_force,Missile submarines (SSBN/SSGN),ship_type,18,0,Ballistic Missile Submarine (SSBN) | Guided Missile Submarine (SSGN),,14 | 4
+2012,2012-09-30,battle_force,Patrol,ship_type,0,0,Patrol Coastal (PC),,-
+2012,2012-09-30,battle_force,Submarines (attack/general),ship_type,54,0,Attack Submarine (SSN),,54
+2012,2012-09-30,battle_force,Combatant other (subtotal),subtotal,65,0,Combatant (Other),,65
+2012,2012-09-30,battle_force,Combatant warships (subtotal),subtotal,222,0,Combatant (Warship),,222
+2012,2012-09-30,battle_force,Total battle force,total,287,0,TOTAL BATTLE FORCE LEVEL,,287
+2013,2013-09-30,battle_force,Aircraft carriers,ship_type,10,0,Aircraft Carrier (CVN),,10
+2013,2013-09-30,battle_force,Amphibious,ship_type,31,0,Amphibious Assault Ship [General] (LHA) | Amphibious Transport Dock (LHD) | Amphibious Assault Ship [Multi] (LPD) | Landing Dock Ship (LSD) | *Mobile Landing Platform (MLP)  Expeditionary Transfer Dock (T-ESD),,1 | 8 | 9 | 12 | 1
+2013,2013-09-30,battle_force,Auxiliary & support,ship_type,52,0,Ammunition Ship (T-AE) | Fleet Replenishment Oiler (T-AO) | Fast Combat Support Ship (T-AOE) | Dry Cargo & Ammunition Ship (T-AKE) | Submarine Tender (AS) | *Joint High Speed Vessel (JHSV)  Expeditionary Fast Transport (T-EPF) | Surveillance Ship (T-AGOS) | Salvage Ship (T-ARS) | Fleet Ocean Tug (T-ATF) | (MPS T-AKE) | Afloat Forward Staging Base (AFSB) | *Afloat Forward Staging Base/  Expeditionary Sea Base (T-ESB) | Hospital Ship (T-AH) | High Speed Transport (T-HST),,1 | 15 | 4 | 12 | 2 | 2 | 5 | 4 | 4 | 2 | 1 | - | - | -
+2013,2013-09-30,battle_force,Command ships,ship_type,2,0,Command Ship (LCC),,2
+2013,2013-09-30,battle_force,Cruisers,ship_type,22,0,Cruiser (CG),,22
+2013,2013-09-30,battle_force,Destroyers,ship_type,62,0,Destroyer (DDG) | Destroyer (DDG 1000),,62 | -
+2013,2013-09-30,battle_force,Frigates,ship_type,17,0,Frigate (FFG),,17
+2013,2013-09-30,battle_force,Littoral combat ships,ship_type,4,0,Littoral (LCS),,4
+2013,2013-09-30,battle_force,Mine warfare,ship_type,13,0,Mine Countermeasures Ship (MCM),,13
+2013,2013-09-30,battle_force,Missile submarines (SSBN/SSGN),ship_type,18,0,Ballistic Missile Submarine (SSBN) | Guided Missile Submarine (SSGN),,14 | 4
+2013,2013-09-30,battle_force,Patrol,ship_type,0,0,Patrol Coastal (PC),,-
+2013,2013-09-30,battle_force,Submarines (attack/general),ship_type,54,0,Attack Submarine (SSN),,54
+2013,2013-09-30,battle_force,Combatant other (subtotal),subtotal,68,0,Combatant (Other),,68
+2013,2013-09-30,battle_force,Combatant warships (subtotal),subtotal,217,0,Combatant (Warship),,217
+2013,2013-09-30,battle_force,Total battle force,total,285,0,TOTAL BATTLE FORCE LEVEL,,285
+2014,2014-09-30,battle_force,Aircraft carriers,ship_type,10,0,Aircraft Carrier (CVN),,10
+2014,2014-09-30,battle_force,Amphibious,ship_type,33,0,Amphibious Assault Ship [General] (LHA) | Amphibious Transport Dock (LHD) | Amphibious Assault Ship [Multi] (LPD) | Landing Dock Ship (LSD) | *Mobile Landing Platform (MLP)  Expeditionary Transfer Dock (T-ESD),,2 | 8 | 9 | 12 | 2
+2014,2014-09-30,battle_force,Auxiliary & support,ship_type,55,0,Ammunition Ship (T-AE) | Fleet Replenishment Oiler (T-AO) | Fast Combat Support Ship (T-AOE) | Dry Cargo & Ammunition Ship (T-AKE) | Submarine Tender (AS) | *Joint High Speed Vessel (JHSV)  Expeditionary Fast Transport (T-EPF) | Surveillance Ship (T-AGOS) | Salvage Ship (T-ARS) | Fleet Ocean Tug (T-ATF) | (MPS T-AKE) | Afloat Forward Staging Base (AFSB) | *Afloat Forward Staging Base/  Expeditionary Sea Base (T-ESB) | Hospital Ship (T-AH) | High Speed Transport (T-HST),,- | 15 | 3 | 12 | 2 | 4 | 5 | 4 | 4 | 2 | 1 | - | 2 | 1
+2014,2014-09-30,battle_force,Command ships,ship_type,2,0,Command Ship (LCC),,2
+2014,2014-09-30,battle_force,Cruisers,ship_type,22,0,Cruiser (CG),,22
+2014,2014-09-30,battle_force,Destroyers,ship_type,62,0,Destroyer (DDG) | Destroyer (DDG 1000),,62 | -
+2014,2014-09-30,battle_force,Frigates,ship_type,10,0,Frigate (FFG),,10
+2014,2014-09-30,battle_force,Littoral combat ships,ship_type,4,0,Littoral (LCS),,4
+2014,2014-09-30,battle_force,Mine warfare,ship_type,8,0,Mine Countermeasures Ship (MCM),,8
+2014,2014-09-30,battle_force,Missile submarines (SSBN/SSGN),ship_type,18,0,Ballistic Missile Submarine (SSBN) | Guided Missile Submarine (SSGN),,14 | 4
+2014,2014-09-30,battle_force,Patrol,ship_type,10,0,Patrol Coastal (PC),^,10^
+2014,2014-09-30,battle_force,Submarines (attack/general),ship_type,55,0,Attack Submarine (SSN),,55
+2014,2014-09-30,battle_force,Combatant other (subtotal),subtotal,67,0,Combatant (Other),,67
+2014,2014-09-30,battle_force,Combatant warships (subtotal),subtotal,222,0,Combatant (Warship),,222
+2014,2014-09-30,battle_force,Total battle force,total,289,0,TOTAL BATTLE FORCE LEVEL,,289
+2015,2015-09-30,battle_force,Aircraft carriers,ship_type,10,0,Aircraft Carrier (CVN),,10
+2015,2015-09-30,battle_force,Amphibious,ship_type,33,0,Amphibious Assault Ship [General] (LHA) | Amphibious Transport Dock (LHD) | Amphibious Assault Ship [Multi] (LPD) | Landing Dock Ship (LSD) | *Mobile Landing Platform (MLP)  Expeditionary Transfer Dock (T-ESD),,1 | 8 | 9 | 12 | 3
+2015,2015-09-30,battle_force,Auxiliary & support,ship_type,54,0,Ammunition Ship (T-AE) | Fleet Replenishment Oiler (T-AO) | Fast Combat Support Ship (T-AOE) | Dry Cargo & Ammunition Ship (T-AKE) | Submarine Tender (AS) | *Joint High Speed Vessel (JHSV)  Expeditionary Fast Transport (T-EPF) | Surveillance Ship (T-AGOS) | Salvage Ship (T-ARS) | Fleet Ocean Tug (T-ATF) | (MPS T-AKE) | Afloat Forward Staging Base (AFSB) | *Afloat Forward Staging Base/  Expeditionary Sea Base (T-ESB) | Hospital Ship (T-AH) | High Speed Transport (T-HST),,- | 15 | 3 | 12 | 2 | 5 | 5 | 4 | 4 | 2 | 1 | - | - | 1
+2015,2015-09-30,battle_force,Command ships,ship_type,2,0,Command Ship (LCC),,2
+2015,2015-09-30,battle_force,Cruisers,ship_type,22,0,Cruiser (CG),,22
+2015,2015-09-30,battle_force,Destroyers,ship_type,62,0,Destroyer (DDG) | Destroyer (DDG 1000),,62 | -
+2015,2015-09-30,battle_force,Frigates,ship_type,0,0,Frigate (FFG),,-
+2015,2015-09-30,battle_force,Littoral combat ships,ship_type,5,0,Littoral (LCS),,5
+2015,2015-09-30,battle_force,Mine warfare,ship_type,11,0,Mine Countermeasures Ship (MCM),,11
+2015,2015-09-30,battle_force,Missile submarines (SSBN/SSGN),ship_type,18,0,Ballistic Missile Submarine (SSBN) | Guided Missile Submarine (SSGN),,14 | 4
+2015,2015-09-30,battle_force,Patrol,ship_type,0,0,Patrol Coastal (PC),,-
+2015,2015-09-30,battle_force,Submarines (attack/general),ship_type,54,0,Attack Submarine (SSN),,54
+2015,2015-09-30,battle_force,Combatant other (subtotal),subtotal,70,0,Combatant (Other),,70
+2015,2015-09-30,battle_force,Combatant warships (subtotal),subtotal,201,0,Combatant (Warship),,201
+2015,2015-09-30,battle_force,Total battle force,total,271,0,TOTAL BATTLE FORCE LEVEL,,271
+2016,2016-09-30,battle_force,Aircraft carriers,ship_type,10,0,Aircraft Carrier (CVN),,10
+2016,2016-09-30,battle_force,Amphibious,ship_type,33,0,Amphibious Assault Ship [General] (LHA) | Amphibious Transport Dock (LHD) | Amphibious Assault Ship [Multi] (LPD) | Landing Dock Ship (LSD) | *Mobile Landing Platform (MLP)  Expeditionary Transfer Dock (T-ESD),,1 | 8 | 10 | 12 | 2
+2016,2016-09-30,battle_force,Auxiliary & support,ship_type,56,0,Ammunition Ship (T-AE) | Fleet Replenishment Oiler (T-AO) | Fast Combat Support Ship (T-AOE) | Dry Cargo & Ammunition Ship (T-AKE) | Submarine Tender (AS) | *Joint High Speed Vessel (JHSV)  Expeditionary Fast Transport (T-EPF) | Surveillance Ship (T-AGOS) | Salvage Ship (T-ARS) | Fleet Ocean Tug (T-ATF) | (MPS T-AKE) | Afloat Forward Staging Base (AFSB) | *Afloat Forward Staging Base/  Expeditionary Sea Base (T-ESB) | Hospital Ship (T-AH) | High Speed Transport (T-HST),,0 | 15 | 2 | 12 | 2 | 7 | 5 | 4 | 4 | 2 | 1 | 1 | - | 1
+2016,2016-09-30,battle_force,Command ships,ship_type,2,0,Command Ship (LCC),,2
+2016,2016-09-30,battle_force,Cruisers,ship_type,22,0,Cruiser (CG),,22
+2016,2016-09-30,battle_force,Destroyers,ship_type,63,0,Destroyer (DDG) | Destroyer (DDG 1000),,62 | 1
+2016,2016-09-30,battle_force,Frigates,ship_type,0,0,Frigate (FFG),,-
+2016,2016-09-30,battle_force,Littoral combat ships,ship_type,8,0,Littoral (LCS),,8
+2016,2016-09-30,battle_force,Mine warfare,ship_type,11,0,Mine Countermeasures Ship (MCM),,11
+2016,2016-09-30,battle_force,Missile submarines (SSBN/SSGN),ship_type,18,0,Ballistic Missile Submarine (SSBN) | Guided Missile Submarine (SSGN),,14 | 4
+2016,2016-09-30,battle_force,Patrol,ship_type,0,0,Patrol Coastal (PC),,-
+2016,2016-09-30,battle_force,Submarines (attack/general),ship_type,52,0,Attack Submarine (SSN),,52
+2016,2016-09-30,battle_force,Combatant other (subtotal),subtotal,71,0,Combatant (Other),,71
+2016,2016-09-30,battle_force,Combatant warships (subtotal),subtotal,204,0,Combatant (Warship),,204
+2016,2016-09-30,battle_force,Total battle force,total,275,0,TOTAL BATTLE FORCE LEVEL,,275
